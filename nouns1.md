@@ -2,11 +2,18 @@ Theme: Animals
 
 avis, avis f: bird
 1. auem (feminine, accusative, singular)
+  - auem magnam.
 2. aues (feminine, accusative, plural)
+  - aues magnas.
 3. aui (feminine, dative, singular)
+  - aui magnae.
 4. auibus (feminine, dative, plural)
+  - auibus magnis.
 5. auis (feminine, nominative, genitive, singular)
+  - auis magna.
+  - auis magnae.
 6. auium (feminine, genitive, plural)
+  - auium magnarum.
 
 canis, canis m or f: dog
 1. cane (masculine, ablative, singular)
