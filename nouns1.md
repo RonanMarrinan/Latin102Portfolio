@@ -1,6 +1,6 @@
 Theme: Animals
 
-avis, avis f: bird   CHECKKKK
+avis, avis f: bird
 1. auem (feminine, accusative, singular)
 2. aues (feminine, accusative, plural)
 3. aui (feminine, dative, singular)
