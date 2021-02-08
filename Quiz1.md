@@ -55,10 +55,10 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 3. Centaurs *were killed* by Hercules. (Use the perfect tense)
   - Interfecti sunt.
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-  - Interficerent.  ❌
+  - Interficerent.  ❌ ???????
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-  - Viderent. ❌
+  - Viderent. ❌ vidit
 6. Hercules *led* Deianira in marriage (i.e., he married her).
   - Adduxit.
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
-  - Rogavit. ❌
+  - Rogavit. ❌ rogabat
