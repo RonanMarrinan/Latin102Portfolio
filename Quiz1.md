@@ -7,7 +7,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
   - Feminine, accusative and singular.
 2. in coniugium
   - Neuter, accusative and singular.
-  - The prepositional phrase translates to "into marriage." ❌
+  - The prepositional phrase translates to "into marriage."
 3. animo
   - Masculine, dative, ablative and singular.
 4. uirgine
@@ -16,7 +16,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
   - Masculine, nominative, accusative and plural
 6. ad uxorem
   - feminine, accusative and singular
-  - The prepositional phrase translates to "towards the wife." ❌ 
+  - The prepositional phrase translates to "towards the wife."
 
 Part 2: recognizing verbs
 For each of the following verbs,
@@ -55,9 +55,9 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 3. Centaurs *were killed* by Hercules. (Use the perfect tense)
   - Interfecti sunt.
 4. When Hercules *killed* the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.)
-  - Interficerent.  ❌ ???????
+  - Interfecisset.
 5. At the moment when Deianira *saw* Hercules’ garment burst into flames, she realized the Centaur had lied to her.
-  - Viderent. ❌ vidit
+  - Viderent. ❌ videt
 6. Hercules *led* Deianira in marriage (i.e., he married her).
   - Adduxit.
 7. Hercules repeatedly *asked* Eurytus for permission to marry Iole.
