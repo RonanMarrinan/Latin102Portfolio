@@ -7,7 +7,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
   - Feminine, accusative and singular.
 2. in coniugium
   - Neuter, accusative and singular.
-  - The prepositional **phrase** translates to "into." ❌
+  - The prepositional phrase translates to "into marriage." ❌
 3. animo
   - Masculine, dative, ablative and singular.
 4. uirgine
@@ -16,7 +16,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
   - Masculine, nominative, accusative and plural
 6. ad uxorem
   - feminine, accusative and singular
-  - The prepositional phrase translates to "towards." ❌ translate the *phrase*
+  - The prepositional phrase translates to "towards the wife." ❌ 
 
 Part 2: recognizing verbs
 For each of the following verbs,
