@@ -5,23 +5,37 @@ Italicize the verb of each clause by surrounding it with asterisks.
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
-Hercules cum in hospitium ad Dexamenum regem uenisset eiusque filiam Deianiram deuirginasset, volebat eam uxorem ducere. 
-cum Hercules abesset, centaurus Eurytion petit Deianiram uxorem. 
-quia pater eius centaurum timebat, pollicitus est se daturum.
-Tempore certo, venit centaurus cum fratribus ad nuptias. Hercules interuenit et centaurum interfecit, Deianiram abduxit.
+Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, volebat eam uxorem *ducere*. 
+cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem. 
+quia pater eius centaurum *timebat*, *pollicitus est* se *daturum*.
+Tempore certo, *venit* centaurus cum fratribus ad nuptias.
+Hercules *interuenit* et centaurum interfecit, Deianiram *abduxit*.
 
 
 B. Grammatical questions
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
   - Dexamenus, Dexameni, m. Deamenum is in the accusative case.
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+  - Deianira, Deianirae, f. Deianiram is in the accusative case.
 3. Identify the form abesset, and explain why it is this tense and mood.
+  - ????????????????????
 4. Identify the form uenisset, and explain why it is this tense and mood.
+  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+  - pollicitus est is
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
 
 
 C. Translation
 Please translate the passgae into idiomatic English.
-Hercules when in/into hospital to/toward/
+
+Hercules when in/into hospital to/toward/ Dexamenus king (both accusative) came (pluperfect, subjuncitve, active) He (genitive) daughter (accusative) Deianiram (name accusative) deuirginasset(maybe a name????), want (imperfect, indicative) she (accusative feminine) wife (accusative) lead (infinitive).
+
+When Hercules (away to be???????), Centaur (nom) Eurytion (name) attack Deianiram wife (both accusative).
+
+Since father of him (gen) centaurs (acc) to be scared (imperfect indicative), to promise (perfect, indicative, passive) he/she/it (acc????) to give.
+
+At this time, came (Present, indicative, active) centaurs when brother (abl) towards weddings (plural).
+
+Hercules came between (Present, indicative, active) and centaur (acc) killed (perfect, indicative, active), Deianiram carry away (Perfect, indicative, active)
 
