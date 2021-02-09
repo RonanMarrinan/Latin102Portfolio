@@ -22,8 +22,9 @@ B. Grammatical questions
 4. Identify the form uenisset, and explain why it is this tense and mood.
   - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-  - pollicitus est is
+  - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at the foruth principal part of the verb to get this form.
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+  - Tempore certo is in the ablative because it is pinpointing an exact time when something happend.
 
 
 C. Translation
