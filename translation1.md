@@ -9,9 +9,7 @@ Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram
 cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem. 
 
 >quia pater eius centaurum *timebat*, 
-
 *pollicitus est* 
-
 >se *daturum*.
 
 
