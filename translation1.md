@@ -5,23 +5,15 @@ Italicize the verb of each clause by surrounding it with asterisks.
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
->Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, 
-
+    Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, 
 volebat eam uxorem *ducere*. 
 
-
-
->cum Hercules *abesset*, 
-
+    cum Hercules *abesset*,
 centaurus Eurytion *petit* Deianiram uxorem.
 
-
-
->quia pater eius centaurum *timebat*, 
-
+    quia pater eius centaurum *timebat*, 
 *pollicitus est* 
-
->se *daturum*.
+    se *daturum*.
 
 
 
