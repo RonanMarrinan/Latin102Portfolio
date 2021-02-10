@@ -6,7 +6,7 @@ Passage to analyze
 (Based on Hyginus, chapter 33.)
 
 Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, volebat eam uxorem *ducere*. 
-cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem. 
+cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem.
 
 >quia pater eius centaurum *timebat*, 
 
@@ -17,7 +17,9 @@ cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem.
 
 >Tempore certo, 
 
-*venit* centaurus cum fratribus ad nuptias.
+*venit* centaurus 
+
+>cum fratribus ad nuptias.
 
 
 Hercules *interuenit* et centaurum interfecit, Deianiram *abduxit*.
@@ -43,14 +45,18 @@ C. Translation
 Please translate the passgae into idiomatic English.
 
 Hercules when in/into hospital to/toward/ Dexamenus king (both accusative) came (pluperfect, subjuncitve, active) He (genitive) daughter (accusative) Deianiram (name accusative) deuirginasset(maybe a name????), want (imperfect, indicative) she (accusative feminine) wife (accusative) lead (infinitive).
+hercules, when in the hospital, came toward King Dexamenus, the daughter of him, deuirginasset, she wanted to lead them as a wife.
+FIX!!!!!!!!
 
 When Hercules (away to be???????), Centaur (nom) Eurytion (name) attack Deianiram wife (both accusative).
+when hercules was going away, the Centaur attacked Deianiram's wife, Eurytion.
+
 
 Since father of him (gen) centaurs (acc) to be scared (imperfect indicative), to promise (perfect, indicative, passive) he/she/it (acc????) to give.
-Since the father of him was scared of the ventaurs ,he promised they gave.
+Since the father of him was scared of the ventaurs, he promised they gave.
 
 At this time, came (Present, indicative, active) centaurs when brother (abl) towards weddings (plural).
-At this time,
+At this time, the cenaturs came when the brother went towards the wedding.
 
 Hercules came between (Present, indicative, active) and centaur (acc) killed (perfect, indicative, active), Deianiram carry away (Perfect, indicative, active)
 
