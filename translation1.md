@@ -8,9 +8,9 @@ Passage to analyze
 Hercules cum in hospitium ad Dexamenum regem *uenisset* eiusque filiam Deianiram deuirginasset, volebat eam uxorem *ducere*. 
 cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem. 
 
-quia pater eius centaurum *timebat*, 
->*pollicitus est* 
->>se *daturum*.
+>quia pater eius centaurum *timebat*, 
+*pollicitus est* 
+>se *daturum*.
 
 
 Tempore certo, *venit* centaurus cum fratribus ad nuptias.
@@ -28,6 +28,7 @@ B. Grammatical questions
   - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
   - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at the foruth principal part of the verb to get this form.
+  - You will find it in the lexicon under polliceor.
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
   - Tempore certo is in the ablative because it is pinpointing an exact time when something happend.
 
