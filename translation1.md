@@ -16,6 +16,7 @@ cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem.
 
 
 >Tempore certo, 
+
 *venit* centaurus cum fratribus ad nuptias.
 
 
