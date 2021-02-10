@@ -15,18 +15,11 @@ centaurus Eurytion *petit* Deianiram uxorem.
 *pollicitus est* 
     se *daturum*.
 
-
-
->Tempore certo, 
-
+        Tempore certo, 
 *venit* centaurus 
+        cum fratribus ad nuptias.
 
->cum fratribus ad nuptias.
-
-
-
->Hercules *interuenit* et centaurum interfecit, 
-
+        Hercules *interuenit* et centaurum interfecit, 
 Deianiram *abduxit*.
 
 
