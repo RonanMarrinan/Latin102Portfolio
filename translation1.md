@@ -29,7 +29,9 @@ centaurus Eurytion *petit* Deianiram uxorem.
 >>cum fratribus ad nuptias.
 
 
->Hercules *interuenit* et centaurum interfecit, 
+>Hercules *interuenit* 
+
+>et centaurum *interfecit*, 
 
 Deianiram *abduxit*.
 
@@ -69,4 +71,4 @@ At this time, came (Present, indicative, active) centaurs when brother (abl) tow
 At this time, the cenaturs came when the brother went towards the wedding.
 
 Hercules came between (Present, indicative, active) and centaur (acc) killed (perfect, indicative, active), Deianiram carry away (Perfect, indicative, active)
-
+Hercules came and killed the centaur, Deiniram was carried away.
