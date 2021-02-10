@@ -12,30 +12,30 @@ Passage to analyze
 >volebat eam uxorem *ducere*. 
 
 
->cum Hercules *abesset*,
+>>cum Hercules *abesset*,
 
-centaurus Eurytion *petit* Deianiram uxorem.
+>centaurus Eurytion *petit* Deianiram uxorem.
 
 
->quia pater eius centaurum *timebat*, 
+>>quia pater eius centaurum *timebat*, 
 
-*pollicitus est* 
+>*pollicitus est* 
 
 >>se *daturum*.
 
 
->Tempore certo, 
+>>Tempore certo, 
 
-*venit* centaurus 
+>*venit* centaurus 
 
 >>cum fratribus ad nuptias.
 
 
->Hercules *interuenit* 
+>>Hercules *interuenit* 
 
->et centaurum *interfecit*, 
+>>et centaurum *interfecit*, 
 
-Deianiram *abduxit*.
+>Deianiram *abduxit*.
 
 
 
