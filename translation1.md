@@ -41,6 +41,7 @@ Hercules when in/into hospital to/toward/ Dexamenus king (both accusative) came 
 When Hercules (away to be???????), Centaur (nom) Eurytion (name) attack Deianiram wife (both accusative).
 
 Since father of him (gen) centaurs (acc) to be scared (imperfect indicative), to promise (perfect, indicative, passive) he/she/it (acc????) to give.
+Since... ,he promised 
 
 At this time, came (Present, indicative, active) centaurs when brother (abl) towards weddings (plural).
 
