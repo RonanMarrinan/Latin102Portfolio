@@ -56,19 +56,13 @@ B. Grammatical questions
 C. Translation
 Please translate the passgae into idiomatic English.
 
-Hercules when in/into hospital to/toward/ Dexamenus king (both accusative) came (pluperfect, subjuncitve, active) He (genitive) daughter (accusative) Deianiram (name accusative) deuirginasset(maybe a name????), want (imperfect, indicative) she (accusative feminine) wife (accusative) lead (infinitive).
-hercules, when in the hospital, came toward King Dexamenus, the daughter of him, deuirginasset, she wanted to lead them as a wife.
-FIX!!!!!!!!
 
-When Hercules (away to be???????), Centaur (nom) Eurytion (name) attack Deianiram wife (both accusative).
-when hercules was going away, the Centaur attacked Deianiram's wife, Eurytion.
+When Hercules came in hospitality to King Dexamenus and deflowered his daughter, he wanted to lead her as a wife.
 
+When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife.
 
-Since father of him (gen) centaurs (acc) to be scared (imperfect indicative), to promise (perfect, indicative, passive) he/she/it (acc????) to give.
-Since the father of him was scared of the ventaurs, he promised they gave.
+Since her father was scared of the Centaurs, he promised he would gave her.
 
-At this time, came (Present, indicative, active) centaurs when brother (abl) towards weddings (plural).
-At this time, the cenaturs came when the brother went towards the wedding.
+At this time, the cenaturs came with his brothers to the wedding.
 
-Hercules came between (Present, indicative, active) and centaur (acc) killed (perfect, indicative, active), Deianiram carry away (Perfect, indicative, active)
 Hercules came and killed the centaur, Deiniram was carried away.
