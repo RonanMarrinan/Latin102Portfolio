@@ -15,7 +15,11 @@ cum Hercules abesset, centaurus Eurytion *petit* Deianiram uxorem.
 >se *daturum*.
 
 
-Tempore certo, *venit* centaurus cum fratribus ad nuptias.
+>Tempore certo, 
+
+*venit* centaurus cum fratribus ad nuptias.
+
+
 Hercules *interuenit* et centaurum interfecit, Deianiram *abduxit*.
 
 
@@ -43,9 +47,10 @@ Hercules when in/into hospital to/toward/ Dexamenus king (both accusative) came 
 When Hercules (away to be???????), Centaur (nom) Eurytion (name) attack Deianiram wife (both accusative).
 
 Since father of him (gen) centaurs (acc) to be scared (imperfect indicative), to promise (perfect, indicative, passive) he/she/it (acc????) to give.
-Since... ,he promised 
+Since the father of him was scared of the ventaurs ,he promised they gave.
 
 At this time, came (Present, indicative, active) centaurs when brother (abl) towards weddings (plural).
+At this time,
 
 Hercules came between (Present, indicative, active) and centaur (acc) killed (perfect, indicative, active), Deianiram carry away (Perfect, indicative, active)
 
