@@ -31,9 +31,9 @@ Passage to analyze
 >>cum fratribus ad nuptias.
 
 
->>Hercules *interuenit* 
+>Hercules *interuenit* 
 
->>et centaurum *interfecit*, 
+>et centaurum *interfecit*, 
 
 >Deianiram *abduxit*.
 
