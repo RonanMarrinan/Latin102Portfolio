@@ -5,7 +5,7 @@ Italicize the verb of each clause by surrounding it with asterisks.
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
->>Hercules cum in hospitium ad Dexamenum regem *uenisset*
+>>Hercules❓ cum in hospitium ad Dexamenum regem *uenisset*
 
 >>eiusque filiam Deianiram *deuirginasset*, 
 
@@ -24,11 +24,11 @@ Passage to analyze
 >>se *daturum*.
 
 
->>Tempore certo, 
+>>Tempore certo,  ❌
 
 >*venit* centaurus 
 
->>cum fratribus ad nuptias.
+>>cum fratribus ad nuptias. ❌
 
 
 >Hercules *interuenit* 
@@ -45,11 +45,11 @@ B. Grammatical questions
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
   - Deianira, Deianirae, f. Deianiram is in the accusative case.
 3. Identify the form abesset, and explain why it is this tense and mood.
-  - It is in the imperfect, subjuncitve and active. It is in the Imperfect and subjuncitve because it expresses an action that that is happening simeultaneously or after the independent clause.
+  - It is in the imperfect, subjuncitve and active.❌ (*person and number?*) It is in the Imperfect and subjuncitve because it expresses an action that that is happening simeultaneously or after the independent clause.❌
 4. Identify the form uenisset, and explain why it is this tense and mood.
-  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause.
+  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. ❌
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-  - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at the fourth principal part of the verb to get this form.
+  - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at the fourth principal part of the verb to get this form.❌
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
   - Tempore certo is in the ablative because it is pinpointing an exact time when something happend.
 
@@ -62,8 +62,9 @@ When Hercules came in hospitality to King Dexamenus and deflowered his daughter,
 
 When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife.
 
-Since her father was scared of the Centaurs, he promised he would gave her.
+Since her father was scared of the Centaurs❌, he promised he would gave her.
 
-At this time, the cenaturs came with his brothers to the wedding.
+At this time, the cenaturs❌ came with his brothers to the wedding.
 
-Hercules came and killed the centaur, Deiniram was carried away.
+Hercules came and killed the centaur, 
+Deiniram was carried away.❌ *voice?*
