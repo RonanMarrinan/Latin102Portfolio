@@ -47,9 +47,9 @@ B. Grammatical questions
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
   - Deianira, Deianirae, f. Deianiram is in the accusative case.
 3. Identify the form abesset, and explain why it is this tense and mood.
-  - It is in the **third person, singular**, imperfect, subjuncitve and active.❌ (*person and number?*) It is in the Imperfect and subjuncitve because it expresses an action that that is happening simeultaneously or after the independent clause.❌ **Abesset is in the subjuncitve because the sentence is discussing the circumstances surronding Hercules when he was away. Abesset is in the imperfect because we are in the secondary sequence and the subordinate clause is happening at the same time as the independent clause.**
+  - It is in the third person, singular, imperfect, subjuncitve and active. Abesset is in the subjuncitve because the sentence is discussing the circumstances surronding Hercules when he was away. Abesset is in the imperfect because we are in the secondary sequence and the subordinate clause is happening at the same time as the independent clause.
 4. Identify the form uenisset, and explain why it is this tense and mood.
-  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. ❌ 
+  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. ❌ **Uenisset is in the subjuncitve because the sentence is discussing the circumstances of when Hercules approached Dexamenus about deflowering his daughter. Uenisset is in the pluperfect because we are in the secondary sequence and the subordinate clause is happening before the independent clause.**
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
   - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at polliceor in the dictionary to find this verb.
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
@@ -68,5 +68,4 @@ Since her father was scared of the Centaur, he promised he would gave her.
 
 At this time, the cenatur came with his brothers to the wedding.
 
-Hercules came and killed the centaur, 
-Hercules carried Deiniram away.❌ *voice?*
+Hercules came and killed the centaur, Hercules carried Deiniram away.
