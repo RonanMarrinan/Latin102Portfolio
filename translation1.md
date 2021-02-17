@@ -1,3 +1,5 @@
+**Full credit**
+
 A. Grammatical analysis
 Place each clause on a separate line, indented to show its level of subordination. 
 Italicize the verb of each clause by surrounding it with asterisks. 
@@ -39,15 +41,15 @@ Passage to analyze
 
 B. Grammatical questions
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
-  - Dexamenus, Dexameni, m. Deamenum is in the accusative case.
+  - Dexamenus, Dexameni, m. Dexamenum is in the accusative case.
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
   - Deianira, Deianirae, f. Deianiram is in the accusative case.
 3. Identify the form abesset, and explain why it is this tense and mood.
-  - It is in the third person, singular, imperfect, subjuncitve and active. Abesset is in the subjuncitve because the sentence is discussing the circumstances surronding Hercules when he was away. Abesset is in the imperfect because we are in the secondary sequence and the subordinate clause is happening at the same time as the independent clause.
+  - It is in the third person, singular, imperfect, subjuncitve and active. Abesset is in the subjunctive because the sentence is discussing the circumstances surronding Hercules when he was away. Abesset is in the imperfect because we are in the secondary sequence and the subordinate clause is happening at the same time as the independent clause.
 4. Identify the form uenisset, and explain why it is this tense and mood.
-  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjuncitve because the sentence is discussing the circumstances of when Hercules approached Dexamenus about deflowering his daughter. Uenisset is in the pluperfect because we are in the secondary sequence and the subordinate clause is happening before the independent clause.
+  - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjunctive because the sentence is discussing the circumstances of when Hercules approached Dexamenus about deflowering his daughter. Uenisset is in the pluperfect because we are in the secondary sequence and the subordinate clause is happening before the independent clause.
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
-  - Pollicitus est is third person, singular, perfct, passive and inidicative. You would look at polliceor in the dictionary to find this verb.
+  - Pollicitus est is third person, singular, perfect, passive and inidicative. You would look at polliceor in the dictionary to find this verb.
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
   - Tempore certo is in the ablative because it is pinpointing an exact time when something happend.
 
@@ -62,6 +64,6 @@ When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife.
 
 Since her father was scared of the Centaur, he promised he would gave her.
 
-At this time, the cenatur came with his brothers to the wedding.
+At this time, the centaur came with his brothers to the wedding.
 
 Hercules came and killed the centaur, Hercules carried Deiniram away.
