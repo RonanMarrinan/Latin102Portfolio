@@ -45,7 +45,7 @@ B. Grammatical questions
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
   - Deianira, Deianirae, f. Deianiram is in the accusative case.
 3. Identify the form abesset, and explain why it is this tense and mood.
-  - It is in the imperfect, subjuncitve and active.❌ (*person and number?*) It is in the Imperfect and subjuncitve because it expresses an action that that is happening simeultaneously or after the independent clause.❌
+  - It is in the **third person, singular**, imperfect, subjuncitve and active.❌ (*person and number?*) It is in the Imperfect and subjuncitve because it expresses an action that that is happening simeultaneously or after the independent clause.❌
 4. Identify the form uenisset, and explain why it is this tense and mood.
   - Uenisset is in the third person, singular, pluperfect, active and subjuncitve. Uenisset is in the subjucnitve and pluperfect because the verb expresses an action that happened prior to the action of the independent clause. ❌
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
