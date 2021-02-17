@@ -5,7 +5,9 @@ Italicize the verb of each clause by surrounding it with asterisks.
 Passage to analyze
 (Based on Hyginus, chapter 33.)
 
->>Hercules❓ cum in hospitium ad Dexamenum regem *uenisset*
+>Hercules
+
+>>cum in hospitium ad Dexamenum regem *uenisset*
 
 >>eiusque filiam Deianiram *deuirginasset*, 
 
@@ -62,9 +64,9 @@ When Hercules came in hospitality to King Dexamenus and deflowered his daughter,
 
 When hercules was away, the Centaur, Eurytion, demanded Deianiram as a wife.
 
-Since her father was scared of the Centaurs❌, he promised he would gave her.
+Since her father was scared of the Centaur, he promised he would gave her.
 
-At this time, the cenaturs❌ came with his brothers to the wedding.
+At this time, the cenatur came with his brothers to the wedding.
 
 Hercules came and killed the centaur, 
-Deiniram was carried away.❌ *voice?*
+Hercules carried Deiniram away.❌ *voice?*
