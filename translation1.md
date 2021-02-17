@@ -26,11 +26,7 @@ Passage to analyze
 >>se *daturum*.
 
 
->>Tempore certo,  ❌
-
->*venit* centaurus 
-
->>cum fratribus ad nuptias. ❌
+>Tempore certo, *venit* centaurus cum fratribus ad nuptias.
 
 
 >Hercules *interuenit* 
