@@ -10,6 +10,7 @@ Using the story above as inspiration, compose a paragraph of Latin according to 
 
 Notes
 Iole is a Greek name, and Hyginus uses the Greek form of her name in the accusative, Iolen.
+
 Vocabulary
 (Words in your core vocabulary list are not translated.)
 
@@ -22,3 +23,17 @@ pater, patris (m.)
 patior, pati, -, passus: endure, suffer; can take a noun as direct object or an indirect statement construction
 peto, petĕre, petivi or petii, petitus
 quia
+
+Composition:
+
+Cum Hercules Oechaliam veniret, is conjugium iolen rogavit.
+
+
+
+
+
+
+
+
+
+
