@@ -36,10 +36,9 @@ Composition:
 
 Cum Hercules Oechaliam veniret, is conjugium iolen rogavit.
 
+Cum pater eius nollet, Hercules Iolen cepit.
 
-
-
-
+Hercules dixit, "eum parentem eius interfectum esse."
 
 
 
