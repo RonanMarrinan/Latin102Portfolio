@@ -76,10 +76,15 @@ you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
+  - Eurytion came to the wedding with his brothers, whom were violent Centaurs.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
+  - 
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
+  - Eurytion, whose brothers were centaurs, expected to marry Deianira.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
+  - Nessus, whom Hercules killed, tried to rape Deianira.
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
+  - 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
@@ -92,4 +97,4 @@ For each sentence in the previous section:
 
 1. translate the relative pronoun into Latin
 2. identify the antecedent of the pronoun, and its gender and number
-4. identify the case of the Latin pronoun, and explain why it is in that case
+3. identify the case of the Latin pronoun, and explain why it is in that case
