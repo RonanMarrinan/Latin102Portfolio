@@ -42,5 +42,5 @@ Hercules dixit, "eum parentem eius interfectum esse."
 
 Iole patiebatur, Parentes eius interfecit.
 
-Quia is parentes interficeret, is iolen Deianiram misit.
+Quia is omnes petii, is iolen Deianiram misit.
 
