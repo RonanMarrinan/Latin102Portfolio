@@ -43,13 +43,21 @@ Check one verb of the first or second conjugation *other than8 amo or habeo, and
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
 1. third plural present indicative passive
+  - Pollicentur.
 2. third plural present subjunctive passive
+  - Polliceantur.
 3. third plural imperfect indicative passive
+  - Pollicebantur.
 4. present infinitive passive
+  - Polliceri.
 5. third plural imperfect subjunctive passive
+  - Pollicerentur.
 6. third plural perfect indicative passive
+  - Polliciti sunt.
 7. perfect active passive
+  - Pollicitum esse.
 8. third plural pluperfect subjunctive passive
+  - Polliciti essent.
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
