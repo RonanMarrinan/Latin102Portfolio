@@ -2,14 +2,43 @@
 
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
 
-1. third plural present indicative active
+**dō, dare, dedī, datus - to give**
+
+1. third plural present indicative active. 
+  - Dant.
 2. third plural present subjunctive active
+  - Dent.
 3. third plural imperfect indicative active
+  - Dabant.
 4. present infinitive active
+  - Dare?????
 5. third plural imperfect subjunctive active
+  - Darent.
 6. third plural perfect indicative active
+  - Dederunt.
 7. perfect active infinitive
+  - Dedisse.
 8. third plural pluperfect subjunctive active
+  - Dedissent.
+
+
+
+1. third plural present indicative active. 
+  - 
+2. third plural present subjunctive active
+  - 
+3. third plural imperfect indicative active
+  - 
+4. present infinitive active
+  - 
+5. third plural imperfect subjunctive active
+  - 
+6. third plural perfect indicative active
+  - 
+7. perfect active infinitive
+  - 
+8. third plural pluperfect subjunctive active
+  - 
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
