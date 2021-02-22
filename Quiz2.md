@@ -21,24 +21,24 @@ Check one verb of the first or second conjugation *other than8 amo or habeo, and
 8. third plural pluperfect subjunctive active
   - Dedissent.
 
-
+**faciō, facere, fēcī, factus - to make, do**
 
 1. third plural present indicative active. 
-  - 
+  - Faciunt.
 2. third plural present subjunctive active
-  - 
+  - Faciant.
 3. third plural imperfect indicative active
-  - 
+  - Faciebant.
 4. present infinitive active
-  - 
+  - Facere.
 5. third plural imperfect subjunctive active
-  - 
+  - Facerent.
 6. third plural perfect indicative active
-  - 
+  - Fecerunt.
 7. perfect active infinitive
-  - 
+  - Fecisse.
 8. third plural pluperfect subjunctive active
-  - 
+  - Fecissent.
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
