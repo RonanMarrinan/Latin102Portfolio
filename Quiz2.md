@@ -90,11 +90,11 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   - Prometheus’ heart was devoured by an eagle, whom Hercules shot with his arrows.
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
-  - Lycus, who tried to kill Megara and her sons Therimachus and Ophites, was killed by Hercules????? same as ten.
+  - Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   - Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
-  - Juno drove threw Hercules, whom killed his own wife Megara, into a fit of madness?????? Can I use the second sentence first.
+  - Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
 
 **Latin relative clauses**
 
