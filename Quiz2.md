@@ -82,16 +82,32 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The latin pronoun is in the nominative because the antecedent frater is in the nominative.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
   - Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
+  - Quem.
+  - Eurytion is the antecedent and it is masculine and singular.
+  - The latin pronoun is in the accusative because the antecedent Eurytion is in the accusative.
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   - Eurytion, whose brothers were centaurs, expected to marry Deianira.
+  - Quī.
+  - Eurytion is the antecedent and it is masculine and singular.
+  - The latin pronoun is in the nominative because the antecedent Eurytion is in the nominative.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus, whom Hercules killed, tried to rape Deianira.
+  - Quī.
+  - Nessus is the antecedent and it is masculine and singular.
+  - The latin pronoun is in the nominative because the antecedent Nessus is in the nominative.
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
   - Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
+  - Cui.
+  - calci is the antecedent and it is in the singular and masculine.
+  - The latin pronoun is in the dative because the antecedent calci is in the dative.
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
+  - Quem.
+  - Busiris is masculine and singular.
+  - The latin pronoun is in the accusative because the antecedent Busiris is in the accusative.
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   - Prometheus’ heart was devoured by an eagle, whom Hercules shot with his arrows.
+  - 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   - Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
