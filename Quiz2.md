@@ -86,10 +86,15 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
   - 
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
+  - 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
+  -
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
+  - Lycus, whom tried to kill Megara and her sons Therimachus and Ophites, was killed by Hercules????? same as ten.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
+  - Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
+  - Juno drove threw Hercules, whom killed his own wife Megara, into a fit of madness?????? Can I use the second sentence first.
 
 **Latin relative clauses**
 
