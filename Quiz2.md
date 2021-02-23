@@ -78,7 +78,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
   - Eurytion came to the wedding with his brothers, whom were violent Centaurs.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-  - 
+  - Dexamenus, whose daughter Deanira was promised in marriage to Eurytion, was afraid of Eurytion.
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   - Eurytion, whose brothers were centaurs, expected to marry Deianira.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
@@ -88,7 +88,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - 
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-  -
+  - 
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   - Lycus, whom tried to kill Megara and her sons Therimachus and Ophites, was killed by Hercules????? same as ten.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
