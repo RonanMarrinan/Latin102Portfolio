@@ -76,7 +76,10 @@ you could make the second sentence a relative clause like this:
 Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twelve labors.
 
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-  - Eurytion came to the wedding with his brothers, who were violent Centaurs.
+  - The brothers, whom came to the wedding with Eurytion, were violent Centaurs.
+  - Quī.
+  - The antecedent is fratres and it is masculine and plural.
+  - The latin pronoun is in the nominative because the antecedent frater is in the nominative.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
   - Dexamenus was afraid of Eurytion, who Deanira was promised in marriage to.
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
