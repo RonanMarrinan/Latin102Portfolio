@@ -107,13 +107,24 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The latin pronoun is in the accusative because the antecedent Busiris is in the accusative.
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   - Prometheus’ heart was devoured by an eagle, whom Hercules shot with his arrows.
-  - 
+  - Quam.
+  - Aqiulam is the antecedent and it is feminine and singular.
+  - The latin pronoun is in the accusative because the antecedent Aqiulam is in the accusative.
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   - Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
+  - Quī.
+  - Lycus is masculine and singular.
+  - The latin pronoun is in the nominative because the antecedent Lycus is in the nominative.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   - Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
+  - Quī.
+  - Hercules is masculine and singular.
+  - The latin pronoun is in the nominative because the antecedent Hercules is in the nominative.
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   - Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
+  - Quī.
+  - Hercules is masculine and singular.
+  - The latin pronoun is in the nominative because the antecedent Hercules is in the nominative.
 
 **Latin relative clauses**
 
