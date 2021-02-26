@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Instructions
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
 
@@ -34,13 +36,13 @@ quia
 
 Composition:
 
-Cum Hercules Oechaliam veniret, is conjugium iolen rogavit.
+Cum Hercules Oechaliam veniret, is conjugium❌ iolen rogavit.
 
-Cum pater eius nollet, Hercules Iolen cepit.
+Cum pater eius nollet, Hercules Iolen❌ cepit.
 
-Hercules dixit, eum parentem eius interfectum esse.
+Hercules dixit, eum parentem❌ eius interfectum esse.❌
 
-Iole patiebatur, Parentes eius interfecit.
+Iole patiebatur, Parentes eius interfecit.❌
 
-Quia is omnes petii, is iolen Deianiram misit.
+Quia❌ is omnes petii❌, is iolen Deianiram❌ misit.
 
