@@ -11,7 +11,7 @@ Check one verb of the first or second conjugation *other than8 amo or habeo, and
 3. third plural imperfect indicative active
   - Dabant.
 4. present infinitive active
-  - Dare?????
+  - Dare.
 5. third plural imperfect subjunctive active
   - Darent.
 6. third plural perfect indicative active
