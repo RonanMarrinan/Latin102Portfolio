@@ -79,52 +79,53 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
   - Cum Quībus.
   - The antecedent is the brothers and it is masculine and plural.
-  - The latin pronoun is in the ablative because its expressing with.
+  - The latin pronoun is in the ablative because the relative pronoun expresses with.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
   - Dexamenus, to whom Deanira was promised in marriage, was afraid of Eurytion.
   - Cui.
   - Eurytion is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the dative because it is the indirect object.
+  - The latin pronoun is in the dative because the relative pronoun is the indirect object.
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   - Eurytion, whose brothers were centaurs, expected to marry Deianira.
   - Cuīus.
   - Eurytion is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the genitive because it expresses possesion.
+  - The latin pronoun is in the genitive because the relative pronoun expresses possesion.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus, whom Hercules killed, tried to rape Deianira.
   - Quīem
   - Nessus is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the accustaive because it is the direct object.
+  - The latin pronoun is in the accustaive because the relative pronoun is the direct object.
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
   - Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
   - Cui.
   - Vial of blood is the antecedent and it is singular and masculine.
-  - The latin pronoun is in the dative because it is the indirect object.
+  - The latin pronoun is in the dative because the relative pronoun is the indirect object.
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
-  - Quem.
+  - Quī
   - Busiris is masculine and singular.
-  - The latin pronoun is in the accusative because the antecedent Busiris is in the accusative.
+  - The latin pronoun is in the nominative because the relative pronoun is the subject.
 7. Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
   - Prometheus’ heart was devoured by an eagle, whom Hercules shot with his arrows.
   - Quam.
-  - Aqiulam is the antecedent and it is feminine and singular.
-  - The latin pronoun is in the accusative because the antecedent Aqiulam is in the accusative.
+  - The Eagle is the antecedent and it is feminine and singular.
+  - The latin pronoun is in the accusative because the relative pronoun Aqiulam is in the accusative.
 8. Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
   - Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
   - Quī.
   - Lycus is masculine and singular.
-  - The latin pronoun is in the nominative because the antecedent Lycus is in the nominative.
+  - The latin pronoun is in the nominative because the relative pronoun is in the nominative.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   - Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-  - Quī.
+  - Quem.
   - Hercules is masculine and singular.
-  - The latin pronoun is in the nominative because the antecedent Hercules is in the nominative.
+  - The latin pronoun is in the accustaue because the relative pronoun is the direct object.
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   - Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
-  - Quī.
+  - Quem.
   - Hercules is masculine and singular.
-  - The latin pronoun is in the nominative because the antecedent Hercules is in the nominative.
+  - The latin pronoun is in the accustaue because the relative pronoun is the direct object.
+
 
 **Latin relative clauses**
 
