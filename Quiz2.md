@@ -30,15 +30,15 @@ Check one verb of the first or second conjugation *other than8 amo or habeo, and
 3. third plural imperfect indicative active
   - Mitteban
 4. present infinitive active
-  - Facere.
+  - Mittere,
 5. third plural imperfect subjunctive active
-  - Facerent.
+  - Mitterent.
 6. third plural perfect indicative active
-  - Fecerunt.
+  - Miserunt.
 7. perfect active infinitive
-  - Fecisse.
+  - Misisse.
 8. third plural pluperfect subjunctive active
-  - Fecissent.
+  - Misissent.
 
 Using the verb polliceor, complete the following synopsis, and translate indicative forms as complete sentences.
 
