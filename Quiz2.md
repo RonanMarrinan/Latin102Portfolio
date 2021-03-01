@@ -21,14 +21,14 @@ Check one verb of the first or second conjugation *other than8 amo or habeo, and
 8. third plural pluperfect subjunctive active
   - Dedissent.
 
-**faciō, facere, fēcī, factus - to make, do**
+**mitto, mittĕre, misi, missus: to send do**
 
 1. third plural present indicative active. 
-  - Faciunt.
+  - Mittunt.
 2. third plural present subjunctive active
-  - Faciant.
+  - Mittant.
 3. third plural imperfect indicative active
-  - Faciebant.
+  - Mitteban
 4. present infinitive active
   - Facere.
 5. third plural imperfect subjunctive active
