@@ -92,14 +92,14 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The latin pronoun is in the genitive because it expresses possesion.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus, whom Hercules killed, tried to rape Deianira.
-  - Quī.
+  - Quīem
   - Nessus is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the nominative because the antecedent Nessus is in the nominative.
+  - The latin pronoun is in the accustaive because it is the direct object.
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-  - Nessus gave Deianira a vial of blood, which Hercules was poisoned by.
+  - Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
   - Cui.
-  - calci is the antecedent and it is in the singular and masculine.
-  - The latin pronoun is in the dative because the antecedent calci is in the dative.
+  - Vial of blood is the antecedent and it is singular and masculine.
+  - The latin pronoun is in the dative because it is the indirect object.
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
   - Quem.
