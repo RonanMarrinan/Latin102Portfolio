@@ -79,17 +79,17 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
   - Cum Quībus.
   - The antecedent is the brothers and it is masculine and plural.
-  - The latin pronoun is in the dative because its the indirect object.
+  - The latin pronoun is in the ablative because its expressing with.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-  - Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage to.
+  - Dexamenus, to whom Deanira was promised in marriage, was afraid of Eurytion.
   - Cui.
   - Eurytion is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the accusative because the antecedent Eurytion is in the accusative. fix??????
+  - The latin pronoun is in the dative because it is the indirect object.
 3. Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
   - Eurytion, whose brothers were centaurs, expected to marry Deianira.
-  - Quī.
+  - Cuīus.
   - Eurytion is the antecedent and it is masculine and singular.
-  - The latin pronoun is in the nominative because the antecedent Eurytion is in the nominative.
+  - The latin pronoun is in the genitive because it expresses possesion.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus, whom Hercules killed, tried to rape Deianira.
   - Quī.
