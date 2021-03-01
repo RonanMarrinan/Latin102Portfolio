@@ -78,8 +78,8 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
 1. The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
   - The brothers, with whom Eurytion came to the wedding, were violent Centaurs.
   - Cum Quībus.
-  - The antecedent is fratres and it is masculine and plural. Would cum be the antecedent??????
-  - The latin pronoun is in the nominative because the antecedent frater is in the nominative. Fix????????
+  - The antecedent is the brothers and it is masculine and plural.
+  - The latin pronoun is in the dative because its the indirect object.
 2. Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
   - Dexamenus was afraid of Eurytion, to whom Deanira was promised in marriage to.
   - Cui.
