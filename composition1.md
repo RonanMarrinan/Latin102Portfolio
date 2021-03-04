@@ -36,7 +36,7 @@ quia
 
 Composition:
 
-Cum Hercules Oechaliam veniret, is conjugium❌ iolen rogavit.
+Cum Hercules Oechaliam veniret, is conjugium❌ iolen petivit.
 
 Cum pater eius nollet, Hercules Iolen❌ cepit.
 
