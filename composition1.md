@@ -40,7 +40,7 @@ Cum Hercules Oechaliam venisset, is in conjugium iolen petivit.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit, eum parentem❌ eius interfectum esse.❌
+Hercules dixit, se parentes❌ eius interfecturum esse.❌
 
 Iole patiebatur, Parentes eius interfecit.❌
 
