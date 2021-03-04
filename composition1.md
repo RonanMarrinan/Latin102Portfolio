@@ -40,9 +40,9 @@ Cum Hercules Oechaliam venisset, is in conjugium iolen petivit.
 
 Cum pater eius nollet, Hercules Oechaliam cepit.
 
-Hercules dixit, se parentes❌ eius interfecturum esse.❌
+Hercules dixit, se parentes eius interfecturum esse.
 
-Iole patiebatur, Parentes eius interfecit.❌
+Iole patiebatur, Parentes interfectum esse. (needs to be masculine, accustaive, plural)
 
-Quia❌ is omnes petii❌, is iolen Deianiram❌ misit.
+Quia❌ is omnes petii❌, is iolen ad Deianiram❌ misit. (preposition ad) (rework dependent clause, try with cum) (stick with interfecio)
 
