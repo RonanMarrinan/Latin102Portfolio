@@ -32,11 +32,11 @@ Hyginus 30pr.3
 
 68pr.1
 
->>Polynices 
+Polynices 
 
 >Adrasto rege adiuuante 
 
->>cum septem ductoribus Thebas uenit
+cum septem ductoribus Thebas uenit
 
 
 3pr
