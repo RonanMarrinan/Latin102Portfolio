@@ -1,5 +1,15 @@
 
+Hyginus 30pr.3
 
+>Hercules 
+
+>>Hydram Minerua 
+
+>monstrante interfecit.
+
+
+
+38pr.3
 
 >Procrustes erat Neptuni filius. 
 
@@ -10,6 +20,7 @@
 >reliquam corporis partem praecidebat.
 
 
+45pr.4
 
 >>Minos re cognita Daedalum
 
@@ -19,7 +30,7 @@
 
 >>annos de monte Caucaso est solutus
 
-
+68pr.1
 
 >>Polynices 
 
@@ -28,6 +39,7 @@
 >>cum septem ductoribus Thebas uenit
 
 
+3pr
 
 >Phrixus arietem immolauit pellemque 
 
