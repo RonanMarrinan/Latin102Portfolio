@@ -44,4 +44,4 @@ Hercules dixit, se parentes eius interfecturum esse.
 
 Iole patiebatur, suos parentes interfectos esse.
 
-Cum Hercules eum omnes interfecisset, iolen ad Deianiram misit.
+Cum Hercules eos omnes interfecisset, iolen ad Deianiram misit.
