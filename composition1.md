@@ -46,4 +46,4 @@ Iole patiebatur, suos parentes interfectos esse.
 
 Quia❌ is omnes petii❌, is iolen ad Deianiram❌ misit. (preposition ad) (rework dependent clause, try with cum) (stick with interficio)
 
-Cum Hercules eum omnes interfecerat, iolen ad Deianiram misit.
+Cum Hercules eum omnes interfecisset, iolen ad Deianiram misit.
