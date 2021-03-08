@@ -42,7 +42,7 @@ Cum pater eius nollet, Hercules Oechaliam cepit.
 
 Hercules dixit, se parentes eius interfecturum esse.
 
-Iole patiebatur, Parentes interfectos esse. (needs to be masculine, accustaive, plural)
+Iole patiebatur, suos parentes interfectos esse.
 
 Quia❌ is omnes petii❌, is iolen ad Deianiram❌ misit. (preposition ad) (rework dependent clause, try with cum) (stick with interficio)
 
