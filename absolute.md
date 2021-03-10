@@ -11,11 +11,11 @@
 
 Hyginus 30pr.3
 
->Hercules 
+Hercules 
 
->>Hydram Minerua 
+>Hydram Minerua 
 
->monstrante interfecit.
+monstrante interfecit.
 
 1. Minerau
 2. Present active ablative
