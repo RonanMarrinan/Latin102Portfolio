@@ -26,11 +26,11 @@ monstrante interfecit.
 
 Procrustes erat Neptuni filius. 
 
->>ad hunc hospes cum uenisset, 
+>ad hunc hospes cum uenisset, 
 
->>minori lecto proposito, 
+>minori lecto proposito, 
 
->reliquam corporis partem praecidebat.
+reliquam corporis partem praecidebat.
 
 1. Lecto.
 2. ablative perfect passive.
