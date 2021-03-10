@@ -24,7 +24,7 @@ monstrante interfecit.
 
 38pr.3
 
->Procrustes erat Neptuni filius. 
+Procrustes erat Neptuni filius. 
 
 >>ad hunc hospes cum uenisset, 
 
