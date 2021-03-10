@@ -9,9 +9,6 @@
 
 
 
-
-
-
 Hyginus 30pr.3
 
 >Hercules 
@@ -20,6 +17,9 @@ Hyginus 30pr.3
 
 >monstrante interfecit.
 
+1. Minerau
+2. Present active ablative
+3. With Minerva showing him, Hercules killed the Hydra.
 
 
 38pr.3
@@ -32,6 +32,10 @@ Hyginus 30pr.3
 
 >reliquam corporis partem praecidebat.
 
+1. Lecto.
+2. ablative perfect passive.
+3. a smaller bed was placed.
+
 
 45pr.4
 
@@ -43,6 +47,11 @@ Hyginus 30pr.3
 
 >>annos de monte Caucaso est solutus
 
+
+1. Re.
+2. perfect passive ablative.
+3. When this matter was known.
+
 68pr.1
 
 Polynices 
@@ -51,6 +60,10 @@ Polynices
 
 cum septem ductoribus Thebas uenit
 
+
+1. Aquila.
+2. Perfect passive participle.
+3. After the eagle was killed.
 
 3pr
 
@@ -61,3 +74,10 @@ cum septem ductoribus Thebas uenit
 >>posuit quam seruante dracone 
 
 >>Iason Aesonis et Alcimedis filius dicitur petisse.
+
+
+1. Rege.
+2. Perfect active ablative.
+3. With the help of king Adrastis.
+
+
