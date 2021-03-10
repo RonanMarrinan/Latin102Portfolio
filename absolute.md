@@ -1,3 +1,16 @@
+1. Identify verbal units: - clauses (dependent and independent) - indirect statements - participial expressions. Indicate levels of subordination indented, as we have done before.
+
+2. Then, for each participle, write:
+>1. find the noun or pronoun it agrees with in gender, case number
+>2. identify the tense and voice of the participle
+
+3. Look for clues in the narrative and in the language of the passage to help you choose one English clause to translate the participle. Be prepared to discuss in class why you preferred one specific translation; were others possible?
+
+
+
+
+
+
 
 Hyginus 30pr.3
 
