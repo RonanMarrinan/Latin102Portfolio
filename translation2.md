@@ -12,7 +12,7 @@ Deianira,
 
 >flumen magnum, (great river)
 
->cui nomen Evenus **erat**, 
+>>cui nomen Evenus **erat**, 
 
 >non **poterat transire**, (imperfect, indicative) can go
 
@@ -26,7 +26,11 @@ auxilium **rogavit**.
 
 **Sentence 2**
 
-Hic Deianiram sublatam in flumine ipso **uiolare uoluit**. 
+Hic
+
+>Deianiram **sublatam** in flumine ipso
+
+**uiolare uoluit**. 
 
 
 
