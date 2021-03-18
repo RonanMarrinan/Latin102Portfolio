@@ -8,7 +8,24 @@ Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat trans
 Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
 huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
-ille moriens, cum sciret sagittas Hydrae Lernaeae felle tinctas magnam vim habere, sanguinem suum exceptum Deianirae dedit et id philtrum esse dixit.
+ille 
+
+> moriens
+
+> cum sciret
+
+>> sagittas Hydrae Lernaeae felle tinctas magnam vim habere
+
+sanguinem suum 
+
+>> exceptum 
+
+Deianirae dedit et
+
+> id philtrum esse
+
+dixit
+
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. 
