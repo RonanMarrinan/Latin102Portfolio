@@ -23,13 +23,21 @@ huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sa
 
 
 ille 
+
 > moriens
+
 > cum sciret
+
 >> sagittas Hydrae Lernaeae felle tinctas magnam vim habere
+
 sanguinem suum 
+
 >> exceptum 
+
 Deianirae dedit et
+
 > id philtrum esse
+
 dixit
 
 
