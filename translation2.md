@@ -4,11 +4,12 @@ Passage to analyze
 **Passage to analyze**
 (From Hyginus, chapter 34.)
 
+**Sentence 1**
 
 Deianira, 
 
 >uxor Herculis, 
->
+
 flumen magnum, (great river)
 
 cui nomen Evenus **erat**, 
@@ -23,8 +24,22 @@ auxilium **rogavit**.
 
 
 
-Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
-huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
+**Sentence 2**
+
+Hic Deianiram sublatam in flumine ipso **uiolare uoluit**. 
+
+
+
+
+
+
+**Sentence 3**
+
+huc Hercules cum **interuenisset**
+
+et Deianira cum fidem eius **implorasset**
+
+Nessum sagittis **confixit**.
 
 
 
