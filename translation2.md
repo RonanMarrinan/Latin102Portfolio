@@ -10,15 +10,15 @@ Deianira,
 
 >uxor Herculis, 
 
-flumen magnum, (great river)
+>flumen magnum, (great river)
 
-cui nomen Evenus **erat**, 
+>cui nomen Evenus **erat**, 
 
-non **poterat transire**, (imperfect, indicative) can go
+>non **poterat transire**, (imperfect, indicative) can go
 
-et centaurum Nessum, 
+>et centaurum Nessum, 
 
-qui filius Ixionis et Nubis **erat**, 
+>qui filius Ixionis et Nubis **erat**, 
 
 auxilium **rogavit**. 
 
