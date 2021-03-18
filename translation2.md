@@ -8,6 +8,10 @@ Deianira, uxor Herculis, flumen magnum, cui nomen Evenus erat, non poterat trans
 Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
 huc Hercules cum interuenisset et Deianira cum fidem eius implorasset, Nessum sagittis confixit.
 
+
+
+
+
 ille 
 
 > moriens
