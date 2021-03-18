@@ -4,14 +4,22 @@ Passage to analyze
 **Passage to analyze**
 (From Hyginus, chapter 34.)
 
+
 Deianira, 
+
 >uxor Herculis, 
+>
 flumen magnum, (great river)
+
 cui nomen Evenus **erat**, 
-non poterat transire, 
+
+non **poterat transire**, (imperfect, indicative) can go
+
 et centaurum Nessum, 
-qui filius Ixionis et Nubis erat, 
-auxilium rogavit. 
+
+qui filius Ixionis et Nubis **erat**, 
+
+auxilium **rogavit**. 
 
 
 
