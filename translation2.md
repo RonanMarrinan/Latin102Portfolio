@@ -98,12 +98,20 @@ B. Grammatical questions
 - Perfect passive participle, feminine, plural and accusative.
 
 8. Identify the form of exceptum.
-- Perfect passive participle, case, gender, singular.
+- Perfect passive participle, accusative, masculine, singular.
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. 
 In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. 
 Suggest one or more possible translations of Faulkner’s title into Latin.
 - Moriens.
+
+C. Translate
+
+Deianira, the wife of hercules, could not cross the big river, which was named Evenus, and asked Nessum the centaur, who was the son of Ixionis et Nubis, for help.
+
+The cenatur, having lifted Deianira in the river, wanted to violate her.
+
+Hither, when Hercules interviened and when Deianira begged for her protection, he peirced nessum with his arrows.
 
 
 
