@@ -55,15 +55,21 @@ ille
 
 > cum *sciret*
 
->> sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*
+>> sagittas 
+
+>>> Hydrae Lernaeae felle tinctas 
+
+>> magnam vim *habere*
 
 sanguinem suum 
 
->> *exceptum* 
+>>*exceptum* 
 
 Deianirae *dedit*
 
-> et id philtrum *esse*
+et
+
+> id philtrum *esse*
 
 *dixit*
 
