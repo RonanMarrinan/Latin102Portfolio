@@ -52,21 +52,21 @@ Nessum sagittis **confixit**.
 
 ille 
 
-> moriens
+> **moriens**
 
-> cum sciret
+> cum **sciret**
 
->> sagittas Hydrae Lernaeae felle tinctas magnam vim habere
+>> sagittas Hydrae Lernaeae felle tinctas magnam vim **habere**
 
 sanguinem suum 
 
->> exceptum 
+>> **exceptum** 
 
-Deianirae dedit et
+Deianirae **dedit** et
 
-> id philtrum esse
+> id philtrum **esse**
 
-dixit
+**dixit**
 
 
 A. Grammatical analysis
