@@ -90,10 +90,18 @@ B. Grammatical questions
 - present active participle, masculine and singular.
 
 6. Identify felle. Why does Hyginus use this case?
-- 
+- Masculine, ablative, singular. Hyginus uses this case because it is the ablative of instrument.
 
 7. Identify the form of tinctas.
+- Perfect passive participle, feminine, plural and accusative.
+
 8. Identify the form of exceptum.
+- Perfect passive participle, case, gender, singular
+
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. 
 In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. 
 Suggest one or more possible translations of Faulkner’s title into Latin.
+
+
+
+
