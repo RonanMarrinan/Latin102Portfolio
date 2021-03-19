@@ -34,10 +34,11 @@ Hic
 
 
 
-
 **Sentence 3**
 
->huc Hercules cum *interuenisset*
+huc Hercules 
+
+>cum *interuenisset*
 
 >et Deianira cum fidem eius *implorasset*
 
