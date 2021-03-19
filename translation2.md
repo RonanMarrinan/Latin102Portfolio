@@ -1,6 +1,3 @@
-Passage to analyze
-(From Hyginus, chapter 34.)
-
 **Passage to analyze**
 (From Hyginus, chapter 34.)
 
