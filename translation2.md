@@ -80,7 +80,7 @@ B. Grammatical questions
   - The antecedent is flumen which is neuter and singular. Cui is in the dative because it is the indirect object.
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
-- Present active infinitive. CHECK SECOND PART!!!!!!
+- Present active infinitive. I placed it in this clause because, as the infinitive, transire helps to complete the meaning of poterat.
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 - Feminine, accusative, singular, perfect passive participle. FINISH!!!!!!!!!!!
