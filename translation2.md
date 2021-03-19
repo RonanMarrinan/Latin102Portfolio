@@ -6,13 +6,9 @@ Passage to analyze
 
 **Sentence 1**
 
-Deianira, 
+Deianira, uxor Herculis, flumen magnum, (great river)
 
->uxor Herculis, 
-
->flumen magnum, (great river)
-
->>cui nomen Evenus *erat*, 
+>cui nomen Evenus *erat*, 
 
 non *poterat transire*, (imperfect, indicative) can go
 
