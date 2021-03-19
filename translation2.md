@@ -81,7 +81,7 @@ B. Grammatical questions
 - Present active infinitive. CHECK SECOND PART!!!!!!
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
-- Feminine, accusative, singular, perfect passive participle.
+- Feminine, accusative, singular, perfect passive participle. FINISH!!!!!!!!!!!
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 - Ablative, plural and feminine . Hyginus uses this case because it is the ablative of instrument.
@@ -96,12 +96,12 @@ B. Grammatical questions
 - Perfect passive participle, feminine, plural and accusative.
 
 8. Identify the form of exceptum.
-- Perfect passive participle, case, gender, singular
+- Perfect passive participle, case, gender, singular.
 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. 
 In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. 
 Suggest one or more possible translations of Faulkner’s title into Latin.
-
+- Moriens.
 
 
 
