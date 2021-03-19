@@ -12,15 +12,17 @@ Deianira,
 
 >flumen magnum, (great river)
 
->>cui nomen Evenus **erat**, 
+>>cui nomen Evenus *erat*, 
 
->non **poterat transire**, (imperfect, indicative) can go
+non *poterat transire*, (imperfect, indicative) can go
 
->et centaurum Nessum, 
+et
 
->qui filius Ixionis et Nubis **erat**, 
+centaurum Nessum, 
 
-auxilium **rogavit**. 
+>qui filius Ixionis et Nubis *erat*, 
+
+auxilium *rogavit*. 
 
 
 
@@ -28,9 +30,9 @@ auxilium **rogavit**.
 
 Hic
 
->Deianiram **sublatam** in flumine ipso
+>Deianiram *sublatam* in flumine ipso
 
-**uiolare uoluit**. 
+*uiolare uoluit*. 
 
 
 
@@ -39,11 +41,11 @@ Hic
 
 **Sentence 3**
 
->huc Hercules cum **interuenisset**
+>huc Hercules cum *interuenisset*
 
->et Deianira cum fidem eius **implorasset**
+>et Deianira cum fidem eius *implorasset*
 
-Nessum sagittis **confixit**.
+Nessum sagittis *confixit*.
 
 
 
@@ -52,21 +54,21 @@ Nessum sagittis **confixit**.
 
 ille 
 
-> **moriens**
+> *moriens*
 
-> cum **sciret**
+> cum *sciret*
 
->> sagittas Hydrae Lernaeae felle tinctas magnam vim **habere**
+>> sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*
 
 sanguinem suum 
 
->> **exceptum** 
+>> *exceptum* 
 
-Deianirae **dedit**
+Deianirae *dedit*
 
-> et id philtrum **esse**
+> et id philtrum *esse*
 
-**dixit**
+*dixit*
 
 
 A. Grammatical analysis
