@@ -118,7 +118,7 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - Lycus is masculine and singular.
   - ❓The latin pronoun is in the nominative because the relative pronoun is the subject.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-  - Hercules, whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
+  - Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
   - ❌ Cui.
   - Hercules is masculine and singular.
   - The latin pronoun is in the dative because the relative pronoun is the indirect object.❌
