@@ -63,6 +63,25 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio❌
 
+**amo, amare, amavi, amatus: to love**
+
+1. third plural present indicative active. 
+  - Amant.
+2. third plural present subjunctive active
+  - Ament.
+3. third plural imperfect indicative active
+  - Amabant.
+4. present infinitive active
+  - Amare.
+5. third plural imperfect subjunctive active
+  - Amarent.
+6. third plural perfect indicative active
+  - Amaverunt
+7. perfect active infinitive
+  - Amavisse
+8. third plural pluperfect subjunctive active
+  - Amavissent.
+
 but not amo, habeo, capio or duco
 
 **English relative clauses**
