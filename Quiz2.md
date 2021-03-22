@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 **Verb synopses**
 
@@ -61,7 +61,7 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 8. third plural pluperfect subjunctive passive
   - Polliciti essent.
 
-Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio❌
+Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio
 
 but not amo, habeo, capio or duco
 
@@ -136,14 +136,14 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - The latin pronoun is in the genitive because the relative pronoun expresses possesion.
 4. Nessus tried to rape Deianira. Hercules killed Nessus.
   - Nessus, whom Hercules killed, tried to rape Deianira.
-  - Quem❌ fixed.
+  - Quem
   - Nessus is the antecedent and it is masculine and singular.
   - The latin pronoun is in the accustaive because the relative pronoun is the direct object.
 5. Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
   - Nessus gave Deianira a vial of blood, by which Hercules was poisoned.
-  - Quō.❌ fixed
+  - Quō.
   - Vial of blood is the antecedent and it is singular and masculine.
-  - The latin pronoun is in the ablative because the relative pronoun is the ablative of means/instrument.❌
+  - The latin pronoun is in the ablative because the relative pronoun is the ablative of means/instrument.
 6. In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
   - In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreigners.
   - Quī
@@ -158,12 +158,12 @@ Hercules was ordered by Eurystheus, who was the son of Sthenelus, to perform twe
   - Lycus, who was killed by Hercules, tried to kill Megara and her sons Therimachus and Ophites.
   - Quī.
   - Lycus is masculine and singular.
-  - ❓The latin pronoun is in the nominative because the relative pronoun is the subject.
+  - The latin pronoun is in the nominative because the relative pronoun is the subject.
 9. Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
   - Hercules, to whom Apollo refused to give an oracle, stole a tripod from the temple at Delphi.
-  - ❌ Cui.
+  -  Cui.
   - Hercules is masculine and singular.
-  - The latin pronoun is in the dative because the relative pronoun is the indirect object.❌
+  - The latin pronoun is in the dative because the relative pronoun is the indirect object.
 10. Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness.
   - Hercules, whom Juno drove into a fit of madness, killed his own wife Megara.
   - Quem.
