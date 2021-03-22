@@ -63,6 +63,9 @@ Using the verb polliceor, complete the following synopsis, and translate indicat
 
 Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio❌
 
+but not amo, habeo, capio or duco
+
+
 **amo, amare, amavi, amatus: to love**
 
 1. third plural present indicative active. 
@@ -76,11 +79,31 @@ Do a synopsis here… one 1st or 2nd, one 3rd or 3rdio❌
 5. third plural imperfect subjunctive active
   - Amarent.
 6. third plural perfect indicative active
-  - Amaverunt
+  - Amaverunt.
 7. perfect active infinitive
-  - Amavisse
+  - Amavisse.
 8. third plural pluperfect subjunctive active
   - Amavissent.
+
+**accipio, accipĕre, accepi, acceptus: to receive, to perceive**
+
+1. third plural present indicative active. 
+  - Accipiunt.
+2. third plural present subjunctive active
+  - Accipiant.
+3. third plural imperfect indicative active
+  - Accipiebant.
+4. present infinitive active
+  - Accipere.
+5. third plural imperfect subjunctive active
+  - Acciperent.
+6. third plural perfect indicative active
+  - Acceperunt.
+7. perfect active infinitive
+  - Accepisse.
+8. third plural pluperfect subjunctive active
+  - Accepissent.
+
 
 but not amo, habeo, capio or duco
 
