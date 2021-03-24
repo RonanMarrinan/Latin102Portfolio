@@ -22,3 +22,26 @@ induo, induĕre, indui, indutum “put on an article of dress or ornament”
 statim (adv.) “immediately”
 
 flammo, flammare, flammavi, flammatus “flame, burn”
+
+**English**
+
+When Deianira saw
+  
+  That iole had been brought
+  
+she began to devise a plot
+
+  in order not to lose her husband
+
+
+
+**Latin**
+
+temporal clause (cum: indicative for time? subjuncitve for circumstance?)
+  
+  indirect statement (infinitive + subject accusative)
+  Iolen adductam esse
+  
+copiebat/coepit machinari
+
+  negative purpose (ne+subjunctive; tense following sequence for secondary (past time) sequence)
