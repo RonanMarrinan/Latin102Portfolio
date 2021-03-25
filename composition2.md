@@ -1,3 +1,5 @@
+**Composition 2: the death of Hercules**
+
 **Instructions**
 1. Your composition should use at least two participles and two relative clauses.
 2. Your composition should include at least one expression of purpose using ad + a noun or pronoun modified by a gerundive.
