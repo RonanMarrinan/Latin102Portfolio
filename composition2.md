@@ -27,7 +27,7 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 **English**
 
-Cum Deinara, filia Oenei et uxor Hurculis, vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne amitteret.
+Cum Deinara, filia Oenei et uxor Hurculis, vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
 
 
