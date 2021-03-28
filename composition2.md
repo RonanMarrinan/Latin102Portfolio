@@ -27,9 +27,11 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 **English**
 
+**First Sentence**
 Deinara, filia Oenei et uxor Hurculis, cum vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
 
+**Second Sentence**
 
 she sent her servant 
 Ea famulum misit 
@@ -44,10 +46,30 @@ which she thought was a love potion.
 quem ea philtrum cogitavit.
 
 
+**Third Sentence**
+
+Hercules put the garment on 
+Hercules vestem (correct word for garment) induit
+
+and it immediately burst into flames.
+et hunc statis in flammatum.
 
 
 
+**Fourth Setence**
+Hercules threw the slave, 
+hercules servam objecit,
 
+whom Deianira had sent 
+quam Deinara misit 
+
+to bring the garment back, 
+ut dederit Hercules vestem,
+
+into the sea.
+in mare.
+
+**Fifth sentence**
 
 
 
