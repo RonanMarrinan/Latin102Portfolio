@@ -27,17 +27,19 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 **English**
 
-When Deianira saw
-Cum Deinara vidit, 
-  
-  That iole had been brought
-  Iolen adductam esse
-  
-she began to devise a plot
-Deinara conjurationem copiebat machinari,
+Cum Deinara, filia Oenei et uxor Hurculis, vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne amitteret.
 
-  in order not to lose her husband
-conjugem ne amitteret.
+
+
+
+
+
+
+
+
+
+
+
 
 
 **Latin**
