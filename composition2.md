@@ -73,11 +73,13 @@ in mare.
 it is reported (or said) that 
 
 Hercules rose to immortality, 
+Hercules immortalitatem desurrexit,
 
 but Deianira killed herself 
+sed Deinara ea interfecit
 
 on account of this deed.
-
+ob actum.
 
 
 
