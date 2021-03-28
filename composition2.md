@@ -28,13 +28,16 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 **English**
 
 When Deianira saw
+Cum Deinara vidit, 
   
   That iole had been brought
+  Iolen adductam esse
   
 she began to devise a plot
+Deinara conjurationem copiebat machinari,
 
   in order not to lose her husband
-
+conjugem ne amitteret.
 
 
 **Latin**
