@@ -27,11 +27,21 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 **English**
 
-Cum Deinara, filia Oenei et uxor Hurculis, vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+Deinara, filia Oenei et uxor Hurculis, cum vidit, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
 
 
+she sent her servant 
+Ea famulum misit 
 
+to bring to Hercules a garment 
+ut dederit Hercules vestem (check to make sure correct) 
+
+dipped in the blood of the centaur Nessus, 
+,sanguinem centauri Nessi imbuit,
+
+which she thought was a love potion.
+quem ea philtrum cogitavit.
 
 
 
