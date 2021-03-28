@@ -70,6 +70,13 @@ into the sea.
 in mare.
 
 **Fifth sentence**
+it is reported (or said) that 
+
+Hercules rose to immortality, 
+
+but Deianira killed herself 
+
+on account of this deed.
 
 
 
