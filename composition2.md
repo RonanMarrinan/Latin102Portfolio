@@ -29,14 +29,14 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
-Ea famulum misit ut daret Herculi vestem,sanguinem centauri Nessi imbuitur, quem ea philtro cogitavit.
+Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitur, quem ea philtro cogitavit.
 
 Hercules vestem induit et hunc statim in flammatum.
 
 
 
 
-hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.
+hercules servam objecit, quam Deinara misit ad dandum Hercules vestem, in mare.
 
 
 Herculem immortalitatem desurrexit, sed Deinara ea interfecit ob actum.
