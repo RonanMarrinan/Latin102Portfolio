@@ -35,30 +35,11 @@ Hercules vestem induit et hunc statim in flammatum.
 
 
 
-**Fourth Setence**
-Hercules threw the slave, 
-hercules servam objecit,
 
-whom Deianira had sent 
-quam Deinara misit 
+hercules servam objecit, quam Deinara misit ut dederit Hercules vestem, in mare.
 
-to bring the garment back, 
-ut dederit Hercules vestem,
 
-into the sea.
-in mare.
-
-**Fifth sentence**
-it is reported (or said) that 
-
-Hercules rose to immortality, 
-Hercules immortalitatem desurrexit,
-
-but Deianira killed herself 
-sed Deinara ea interfecit
-
-on account of this deed.
-ob actum.
+Herculem immortalitatem desurrexit, sed Deinara ea interfecit ob actum.
 
 
 
