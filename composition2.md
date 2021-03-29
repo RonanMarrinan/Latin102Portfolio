@@ -25,34 +25,13 @@ statim (adv.) “immediately”
 
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-**English**
+**Composition**
 
-**First Sentence**
 Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
 
+Ea famulum misit ut daret Herculi vestem,sanguinem centauri Nessi imbuitur, quem ea philtro cogitavit.
 
-**Second Sentence**
-
-she sent her servant 
-Ea famulum misit 
-
-to bring to Hercules a garment 
-ut daret Herculi vestem 
-
-dipped in the blood of the centaur Nessus, 
-,sanguinem centauri Nessi imbuitur,
-
-which she thought was a love potion.
-quem ea philtro cogitavit.
-
-
-**Third Sentence**
-
-Hercules put the garment on 
-Hercules vestem induit
-
-and it immediately burst into flames.
-et hunc statis in flammatum.
+Hercules vestem induit et hunc statim in flammatum.
 
 
 
@@ -83,13 +62,4 @@ ob actum.
 
 
 
-**Latin**
 
-temporal clause (cum: indicative for time? subjuncitve for circumstance?)
-  
-  indirect statement (infinitive + subject accusative)
-  Iolen adductam esse
-  
-copiebat/coepit machinari
-
-  negative purpose (ne+subjunctive; tense following sequence for secondary (past time) sequence)
