@@ -6,4 +6,6 @@ dracones duos duabus manibus necauit,
  
 > unde primigenius est dictus.
 
-When Hercules was an infant, he killed two dragons with his hans, from which his name originates.
+
+
+When Hercules was an infant, he killed two dragons with his two hands, which were sent by Iuno, from which his name originates.
