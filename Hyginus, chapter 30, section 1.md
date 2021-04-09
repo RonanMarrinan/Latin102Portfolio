@@ -1,11 +1,9 @@
 > Infans cum esset, 
-When the infant was
- 
+
 dracones duos duabus manibus necauit, 
-Two Dragons killed 
  
 > quos Iuno miserat, 
-whom Iuno sent 
  
 > unde primigenius est dictus.
-from which the primitive were told
+
+When Hercules was an infant, he killed two dragons with his hans, from which his name originates.
