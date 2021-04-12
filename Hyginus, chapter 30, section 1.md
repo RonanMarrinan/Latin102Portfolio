@@ -8,4 +8,4 @@ dracones duos duabus manibus necauit,
 
 
 
-When Hercules was an infant, he killed two serpents with his two hands, whom were sent by Iuno, from which his name originates.
+When Hercules was an infant, he killed two serpents with his two hands, whom were sent by Iuno, from which he was named the first born.
