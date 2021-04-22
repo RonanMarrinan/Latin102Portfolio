@@ -79,7 +79,7 @@ Italicize the verb of each unit by surrounding it with asterisks.
 
 B. Grammatical questions
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-  - The antecedent is flumen which is neuter and singular. Cui is in the dative because it is the indirect object.❌
+  - The antecedent is flumen which is neuter and singular. Cui is in the dative because it is the dative of possesion.❌
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 - Present active infinitive. I placed it in this clause because, as the infinitive, transire helps to complete the meaning of poterat.
