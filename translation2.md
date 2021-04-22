@@ -23,9 +23,9 @@ auxilium *rogavit*.
 
 **Sentence 2**
 
-Hic
+Hic Deianiram 
 
->Deianiram *sublatam* in flumine ipso❌
+>*sublatam* in flumine ipso❌
 
 *uiolare uoluit*. 
 
