@@ -113,7 +113,7 @@ Deianira, the wife of hercules, could not cross the big river, which was named E
 
 The cenatur, having lifted Deianira in the river, wanted to violate her.
 
-When Hercules interviened and when Deianira begged for her protection, he pierced Nessum❓ with his arrows.
+When Hercules interviened and when Deianira begged for her protection, he pierced Nessus with his arrows.
 
 That❓, as he died, he❓ knew the arrows were soaked with the powerful poison of Hydrae❓ Lernaeae, haven taken off the blood❌, he gave it to Deianira and said it was a love charm.
 
