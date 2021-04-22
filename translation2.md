@@ -91,7 +91,7 @@ B. Grammatical questions
 - Ablative, plural and feminine. Hyginus uses this case because it is the ablative of instrument.
 
 5. Identify the form of moriens.
-- present active participle, masculine and singular. **Case?**
+- present active participle, masculine, nominative and singular. **Case?**
 
 6. Identify felle. Why does Hyginus use this case?
 - Masculine, ablative, singular. Hyginus uses this case because it is the ablative of instrument.
