@@ -117,3 +117,4 @@ When Hercules interviened and when Deianira begged for her protection, he pierce
 
 As he was dying, because he knew the arrows were soaked with the powerful poison of Hydrae❓ Lernaeae, haven taken off the blood❌, he gave it to Deianira and said it was a love charm.
 
+As he was dying, since he knew the arrows had great power because they had been soaked in the venom of the hydra, he gave Deinira his own blood and said that it was a love charm.
