@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 **Passage to analyze**
 (From Hyginus, chapter 34.)
@@ -25,7 +25,7 @@ auxilium *rogavit*.
 
 Hic Deianiram 
 
->*sublatam* in flumine ipso❌
+>*sublatam* in flumine ipso
 
 *uiolare uoluit*. 
 
@@ -79,7 +79,7 @@ Italicize the verb of each unit by surrounding it with asterisks.
 
 B. Grammatical questions
 1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?)
-  - The antecedent is flumen which is neuter and singular. Cui is in the dative because it is the dative of possesion.❌
+  - The antecedent is flumen which is neuter and singular. Cui is in the dative because it is the dative of possesion.
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 - Present active infinitive. I placed it in this clause because, as the infinitive, transire helps to complete the meaning of poterat.
@@ -91,7 +91,7 @@ B. Grammatical questions
 - Ablative, plural and feminine. Hyginus uses this case because it is the ablative of instrument.
 
 5. Identify the form of moriens.
-- present active participle, masculine, nominative and singular. **Case?**
+- present active participle, masculine, nominative and singular. 
 
 6. Identify felle. Why does Hyginus use this case?
 - Masculine, ablative, singular. Hyginus uses this case because it is the ablative of instrument.
@@ -109,10 +109,10 @@ Suggest one or more possible translations of Faulkner’s title into Latin.
 
 C. Translate
 
-Deianira, the wife of hercules, could not cross the big river, which was named Evenus, and asked Nessum the centaur, who was the son of Ixionis et Nubis, for help.
+Deianira, the wife of hercules, could not cross the big river, which was named Evenus, and asked NessuS the centaur, who was the son of Ixionis et Nubis, for help.
 
-The cenatur, having lifted Deianira in the river, wanted to violate her.
+The centaur, having lifted Deianira in the river, wanted to violate her.
 
-When Hercules interviened and when Deianira begged for her protection, he pierced Nessus with his arrows.
+When Hercules intervened and when Deianira begged for his protection, he pierced Nessus with his arrows.
 
 As he was dying, since he knew the arrows had great power because they had been soaked in the venom of the hydra, he gave Deinira his own blood and said that it was a love charm.
