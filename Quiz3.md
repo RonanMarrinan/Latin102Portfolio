@@ -12,8 +12,14 @@ For each word in the following phrases, list the forms the dictionary entry give
  Noun-adjective pairs (in various cases):
 
 1. uno die
+- dius, dii, m
+- unus, una unum
 2. totum stercus
+- stercus, stercoris, m
+- totus, tota, totum,
 3. ceruum ferocem
+- ferox, ferocis, M
+- 
 4. tantam vim
 5. sagittas suas
 6. cornibus aureis
