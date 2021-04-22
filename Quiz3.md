@@ -1,23 +1,28 @@
 Dictionary skills, 1: noun-adjective pairs
+
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
-for a noun, nominative singular, genitive singular and gender
-for an adjective, two or three forms:
-for a one-ending adjective, masculine nominative singular and masculine genitive singular
-for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
-for a three-ending adjective, masculine, feminine and neuter nominative singular
-Noun-adjective pairs (in various cases):
+- for a noun, nominative singular, genitive singular and gender
+- for an adjective, two or three forms:
+  - for a one-ending adjective, masculine nominative singular and masculine genitive singular
+  - for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
+  - for a three-ending adjective, masculine, feminine and neuter nominative singular
+ 
+ 
+ Noun-adjective pairs (in various cases):
 
-uno die
-totum stercus
-ceruum ferocem
-tantam vim
-sagittas suas
-cornibus aureis
-carne humana
-draconem immanem
-mala aurea
+1. uno die
+2. totum stercus
+3. ceruum ferocem
+4. tantam vim
+5. sagittas suas
+6. cornibus aureis
+7. carne humana
+8. draconem immanem
+9. mala aurea
+
 Dictionary skills, 2: verb forms
+
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 transierat
