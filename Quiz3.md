@@ -88,10 +88,16 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
+- meus, mea, meum
 2. Hydram Lernaeam
+- 
 3. aprum Erymanthium
+- 
 4. aves Stymphalides
+- 
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+- 
+
 
 Comparative and superlative forms
 
