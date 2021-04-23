@@ -8,18 +8,17 @@ For each word in the following phrases, list the forms the dictionary entry give
   - for a two-ending adjective, masculine/feminine nominative singular, neuter nominative singular
   - for a three-ending adjective, masculine, feminine and neuter nominative singular
  
- 
  Noun-adjective pairs (in various cases):
 
 1. uno die
-- dius, dii, M
+- dies, diei, M
 - unus, una unum
 2. totum stercus
 - stercus, stercoris, m
 - totus, tota, totum,
 3. ceruum ferocem
 - ferox, ferocis, M
-- Cervus, cervi
+- Ceruus, cerui
 4. tantam vim
 - vis, vires, F
 - tantus, tanta, tantum
@@ -50,7 +49,7 @@ For the following verbs in various forms, list the four principal parts you woul
 3. moriebatur
 - morior, mori, mortuus sum
 4. exinteravit
-- 
+- exintero, exintere, exintrivi, exintritus
 5. effugiebat
 - effugio, effugere, effugi, effugitus
 6. adduxit
@@ -62,7 +61,7 @@ For the following verbs in various forms, list the four principal parts you woul
 9. detraxit
 - detraho, detrahere, detraxi, detractus
 10. solitus erat
-- 
+- soleo, solere, solitus sum
 11. attulit
 - affero, afferre, attuli, allatus
 
@@ -83,20 +82,20 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 6. cum Abdero
 - Desum, desse, defui, defuturus
 7. Eurystheo regi
-- 
+- Eurystheus, Eurysthei, M
 
 Compose a dictionary form for the proper adjectives in the following phrases:
 
 1. Leonem Nemeum
-- meus, mea, meum
+- nemeus, nemea, nemeum
 2. Hydram Lernaeam
-- 
+- Lernaeus, Lernaea, lernaeum
 3. aprum Erymanthium
-- 
+- Erymanthius, Erymanthia, Erymanthium
 4. aves Stymphalides
-- 
+- Stymphalus, Stymphala, Stymphalum
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
-- 
+- Amazonus, Amazona, Amazonum
 
 
 Comparative and superlative forms
@@ -115,19 +114,20 @@ a third-declension noun:
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 1. The Hydra killed passers by *with a great blowing* of his poisonous breath.
-- afflatu magno.
+- magno afflatu.
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath.
-- 
+- maoire afflatu.
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
-- 
+- maximo afflatu.
 4. The victims died *in *great torment.*
--  cruciatu magno.
+-  magnum cruciatum.
 5. The victims died *in greater torment.*
-- 
+- maiorem cruciatum.
 6. The victims died *in the greatest torment.*
-- 
+- maximum cruciatum.
 7. Hercules cleaned *a great part of the stables.*
 - Magnum partem catabuli.
 8. Hercules cleaned *a greater part of the stables.*
-- 
+- Maiorem partem catabuli.
 9. Hercules cleaned *the greatest part of the stables.*
+- Maximam partem catabuli.
