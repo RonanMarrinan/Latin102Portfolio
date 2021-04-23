@@ -19,7 +19,7 @@ For each word in the following phrases, list the forms the dictionary entry give
 - totus, tota, totum,
 3. ceruum ferocem
 - ferox, ferocis, M
-- Cernuus, cernua, cernuum
+- Cervus, cervi
 4. tantam vim
 - vis, vires, F
 - tantus, tanta, tantum
@@ -44,33 +44,48 @@ Dictionary skills, 2: verb forms
 For the following verbs in various forms, list the four principal parts you would find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
 1. transierat
+-  transeo, transire, transivi, transitus
 2. afflabat
+- afflo, afflare, afflavi, afflatus
 3. moriebatur
+- morior, mori, mortuus sum
 4. exinteravit
+- 
 5. effugiebat
+- effugio, effugere, effugi, effugitus
 6. adduxit
+- adduco, adducere, adduxi, adductus
 7. iaculabantur
+- jaculor, jaculari, jaculatus sum
 8. vescebantur
+- vescor, vesci, - 
 9. detraxit
+- detraho, detrahere, detraxi, detractus
 10. solitus erat
+- 
 11. attulit
-
+- affero, afferre, attuli, allatus
 
 Dictionary skills, 3: proper nouns and adjectives
 
 Dictionaries do not include large numbers of proper names and adjectives. Compose a dictionary for the proper nouns in the following phrases:
 
 1. Luna (nominative)
+- luna, lunae, F
 2. Minerva (nominative)
+- Minerva, Minervae, F 
 3. in Phrygia
+- Phrygius, Phrygia, Phrygium
 4. ex Creta
+- Creta, Cretae, F
 5. Thraciae rex
+- Thracia, Thraciae, F
 6. cum Abdero
+- Desum, desse, defui, defuturus
 7. Eurystheo regi
-
+- 
 
 Compose a dictionary form for the proper adjectives in the following phrases:
-
 
 1. Leonem Nemeum
 2. Hydram Lernaeam
