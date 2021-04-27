@@ -1,3 +1,5 @@
+**Needs revisions**
+
 **Composition 2: the death of Hercules**
 
 **Instructions**
@@ -27,19 +29,19 @@ flammo, flammare, flammavi, flammatus “flame, burn”
 
 **Composition**
 
-Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem copiebat machinari, conjugem ne privaret.
+Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem❌ copiebat machinari, conjugem ne privaret.
 
-Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitur, quem ea philtro cogitavit.
+Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitu❌r, quem ea philtro❌ cogitavit.
 
-Hercules vestem induit et hunc statim in flammatum.
-
-
+Hercules vestem induit et hunc statim in flammatum❌.
 
 
-hercules servam objecit, quam Deinara misit ad dandum Hercules vestem, in mare.
 
 
-Herculem immortalitatem desurrexit, sed Deinara ea interfecit ob actum.
+hercules servam❌ objecit, quam❌ Deinara misit ad dandum Hercules vestem, in mare.**Nice use of the gerundive!**
+
+
+Herculem❌ immortalitatem desurrexit, sed Deinara ea❌ interfecit ob actum.
 
 
 
