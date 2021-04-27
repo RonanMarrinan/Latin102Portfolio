@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Dictionary skills, 1: noun-adjective pairs
 
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
@@ -17,25 +19,25 @@ For each word in the following phrases, list the forms the dictionary entry give
 - stercus, stercoris, m
 - totus, tota, totum,
 3. ceruum ferocem
-- ferox, ferocis, M
+- ferox, ferocis, M❌
 - Ceruus, cerui
 4. tantam vim
-- vis, vires, F
+- vis, vires, F❌
 - tantus, tanta, tantum
 5. sagittas suas
 - sagitta, sagittae, F
 - Suus, sua, suum
 6. cornibus aureis
-- cornus, cornus, F
+- cornus, cornus, F **Possible.**
 - aureus, aurea, aureum
 7. carne humana
-- carnis, carnis, F
+- carnis, carnis, F❌
 - humanus, humana, humunuam
 8. draconem immanem
 - Draco, draconis, M
 - Immanis, immane
 9. mala aurea
-- Malum, malae, M
+- Malum, malae, M❌
 - Aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
@@ -47,9 +49,9 @@ For the following verbs in various forms, list the four principal parts you woul
 2. afflabat
 - afflo, afflare, afflavi, afflatus
 3. moriebatur
-- morior, mori, mortuus sum
+- morior, mori, -, mortuus sum
 4. exinteravit
-- exintero, exintere, exintrivi, exintritus
+- exintero, exintere, exintrivi, exintritus❌
 5. effugiebat
 - effugio, effugere, effugi, effugitus
 6. adduxit
@@ -61,7 +63,7 @@ For the following verbs in various forms, list the four principal parts you woul
 9. detraxit
 - detraho, detrahere, detraxi, detractus
 10. solitus erat
-- soleo, solere, solitus sum
+- soleo, solere, -, solitus sum
 11. attulit
 - affero, afferre, attuli, allatus
 
@@ -74,13 +76,13 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 2. Minerva (nominative)
 - Minerva, Minervae, F 
 3. in Phrygia
-- Phrygius, Phrygia, Phrygium
+- Phrygius, Phrygia, Phrygium ❌
 4. ex Creta
 - Creta, Cretae, F
 5. Thraciae rex
 - Thracia, Thraciae, F
 6. cum Abdero
-- Desum, desse, defui, defuturus
+- Desum, desse, defui, defuturus ❌
 7. Eurystheo regi
 - Eurystheus, Eurysthei, M
 
@@ -93,7 +95,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 3. aprum Erymanthium
 - Erymanthius, Erymanthia, Erymanthium
 4. aves Stymphalides
-- Stymphalus, Stymphala, Stymphalum
+- Stymphalus, Stymphala, Stymphalum ❌
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 - Amazonus, Amazona, Amazonum
 
@@ -119,15 +121,15 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 - maoire afflatu.
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
 - maximo afflatu.
-4. The victims died *in *great torment.*
+4. The victims died *in *great torment.* ❌ **Agreement of adj. and noun correct, but why acc.?**
 -  magnum cruciatum.
 5. The victims died *in greater torment.*
 - maiorem cruciatum.
 6. The victims died *in the greatest torment.*
 - maximum cruciatum.
 7. Hercules cleaned *a great part of the stables.*
-- Magnum partem catabuli.
+- Magnum partem .❌
 8. Hercules cleaned *a greater part of the stables.*
-- Maiorem partem catabuli.
+- Maiorem partem .
 9. Hercules cleaned *the greatest part of the stables.*
-- Maximam partem catabuli.
+- Maximam partem .
