@@ -29,6 +29,17 @@ maiorem partem Iove adiutore;
 flumine admisso totum stercus abluit.
 
 
+taurum cum quo Pasiphae concubuit 
+ex Creta insula Mycenis vivum adduxit.
+
+
+Diomedem Thraciae regem et equos quattuor eius, 
+qui carne humana vescebantur, 
+cum Abdero famulo interfecit; 
+equorum autem nomina Podargus Lampon Xanthus Dinus.
+
+
+
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 2. What case is stercus, and why is it in that case?
