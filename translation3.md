@@ -44,11 +44,17 @@ B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 - Iove is in the ablative case and it is 
 2. What case is stercus, and why is it in that case?
+- Stercus is in the nominative case 
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
+- feminine, accustaive, singular, ?????
 4. Explain the construction of the verbal unit flumine admisso.
+- 
 5. What are the gender, number, case, and antecedent of qui?
+- Qui is in the masculine, ?, nominative and its antecedent is 
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
+- 
 
 
 C. Literary commentary
+
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
