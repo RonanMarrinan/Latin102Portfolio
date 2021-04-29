@@ -24,13 +24,19 @@ Hyginus, chapter 30, sections 7-9.
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Augeae regis stercus bobile uno die *purgavit*, 
-maiorem partem Iove *adiutore*; 
+Augeae regis stercus bobile uno die *purgavit*,
+
+>maiorem partem Iove *adiutore*; 
+
 flumine admisso totum stercus *abluit*.
 
 
-taurum cum quo Pasiphae *concubuit*
+
+>taurum cum quo Pasiphae *concubuit*
+
 ex Creta insula Mycenis vivum *adduxit*.
+
+
 
 
 Diomedem Thraciae regem et equos quattuor eius, 
