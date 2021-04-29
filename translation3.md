@@ -26,9 +26,10 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 
 Augeae regis stercus bobile uno die *purgavit*,
 
->maiorem partem Iove *adiutore*; 
+>maiorem partem Iove *adiutore*;
 
 flumine admisso totum stercus *abluit*.
+
 
 
 
@@ -39,26 +40,30 @@ ex Creta insula Mycenis vivum *adduxit*.
 
 
 
-Diomedem Thraciae regem et equos quattuor eius, 
-qui carne humana *vescebantur*,
-cum Abdero famulo *interfecit*;
+Diomedem Thraciae regem et equos quattuor eius,
+
+>qui carne humana *vescebantur*,
+
+>cum Abdero famulo *interfecit*;
+
 equorum autem nomina Podargus Lampon Xanthus Dinus.
+
 
 
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-- Iove is in the ablative case and it is 
+- Iove is in the ablative case and it is the absolute ablative.
 2. What case is stercus, and why is it in that case?
-- Stercus is in the nominative case 
+- Stercus is in the nominative case because it is the subject.
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
-- feminine, accustaive, singular, ?????
+- Feminine, accustaive, singular, comparative.
 4. Explain the construction of the verbal unit flumine admisso.
-- 
+- It is the ablative absolute.
 5. What are the gender, number, case, and antecedent of qui?
-- Qui is in the masculine, ?, nominative and its antecedent is 
+- Qui is in the masculine, plural, nominative and its antecedent is equos.
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-- 
+- The latin verb "to be" has no present participle so it is omitted from the sentence but the sentence is still complete.
 
 
 C. Literary commentary
