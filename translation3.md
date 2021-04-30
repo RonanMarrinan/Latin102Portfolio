@@ -79,7 +79,7 @@ Hyginu's diction helps to enhance the passage. For example, Hyginus choice to om
 
 D. Translation 3
 
-One day Hercules cleaned the manure of King Augeas, with Iove helping for the most part: Hercules let the river in to clean the manure.
+One day, Hercules cleaned the manure of King Augeas, with Iove helping clean part: Hercules let the river in to clean the manure.
 
 Hercules led the bulls, with whom Pasiphae layed with, alive out of the island of Crete.
 
