@@ -77,5 +77,7 @@ Hyginu's diction helps to enhance the passage. For example, Hyginus choice to om
 
 
 
+D. Translation 3
+
 
 
