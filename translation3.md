@@ -66,6 +66,16 @@ B. Grammatical questions
 - The latin verb "to be" has no present participle so it is omitted from the sentence but the sentence is still complete.
 
 
+
+
 C. Literary commentary
 
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
+
+
+Hyginu's diction helps to enhance the passage. For example, Hyginus choice to omit Hercules name from each sentence and thos helped make the sentcnes flow better. If he had kept the name Hercules then the passage would have felt repetative. The passage is also enahcned when Hyginus names each of the individual horses, enhancing the idea of how challenging it was for Hecules to kill every one of them.
+
+
+
+
+
