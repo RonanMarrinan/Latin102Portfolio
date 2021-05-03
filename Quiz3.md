@@ -76,13 +76,13 @@ Dictionaries do not include large numbers of proper names and adjectives. Compos
 2. Minerva (nominative)
 - Minerva, Minervae, F 
 3. in Phrygia
-- Phrygius, Phrygia, Phrygium ❌
+- Phrygius, Phrygia, Phrygium ❌ Phrygia, Phrygiae (f)
 4. ex Creta
 - Creta, Cretae, F
 5. Thraciae rex
 - Thracia, Thraciae, F
 6. cum Abdero
-- Desum, desse, defui, defuturus ❌
+- Desum, desse, defui, defuturus ❌ Abderus, Abderi (m)
 7. Eurystheo regi
 - Eurystheus, Eurysthei, M
 
