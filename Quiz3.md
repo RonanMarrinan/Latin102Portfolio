@@ -95,7 +95,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 3. aprum Erymanthium
 - Erymanthius, Erymanthia, Erymanthium
 4. aves Stymphalides
-- Stymphalus, Stymphala, Stymphalum ❌ 
+- Stymphalus, Stymphala, Stymphalum ❌ Sytmphalis, Stymphalidis
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 - Amazonus, Amazona, Amazonum
 
@@ -122,14 +122,14 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 3. The Hydra killed passers by *with the greatest blowing* of his poisonous breath.
 - maximo afflatu.
 4. The victims died *in *great torment.* ❌ **Agreement of adj. and noun correct, but why acc.?**
--  magnum cruciatum.
+-  magnum cruciatum. ❌  magno cruciatu
 5. The victims died *in greater torment.*
 - maiorem cruciatum.
 6. The victims died *in the greatest torment.*
 - maximum cruciatum.
 7. Hercules cleaned *a great part of the stables.*
-- Magnum partem .❌
+- Magnum partem. ❌ Magnam partem
 8. Hercules cleaned *a greater part of the stables.*
-- Maiorem partem .
+- Maiorem partem.
 9. Hercules cleaned *the greatest part of the stables.*
-- Maximam partem .
+- Maximam partem.
