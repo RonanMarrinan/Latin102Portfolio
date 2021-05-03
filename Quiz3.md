@@ -19,10 +19,10 @@ For each word in the following phrases, list the forms the dictionary entry give
 - stercus, stercoris, m
 - totus, tota, totum,
 3. ceruum ferocem
-- ferox, ferocis, M❌
+- ferox, ferocis, M❌ ferocs, ferocis, M???????
 - Ceruus, cerui
 4. tantam vim
-- vis, vires, F❌
+- vis, vires, F❌ vīs, vis (f)
 - tantus, tanta, tantum
 5. sagittas suas
 - sagitta, sagittae, F
@@ -31,13 +31,13 @@ For each word in the following phrases, list the forms the dictionary entry give
 - cornus, cornus, F **Possible.**
 - aureus, aurea, aureum
 7. carne humana
-- carnis, carnis, F❌
-- humanus, humana, humunuam
+- carnis, carnis, F❌ caro, carnis (f)
+- humanus, humana, humunum
 8. draconem immanem
 - Draco, draconis, M
 - Immanis, immane
 9. mala aurea
-- Malum, malae, M❌
+- Malum, malae, M❌  malum, mali (n)
 - Aureus, aurea, aureum
 
 Dictionary skills, 2: verb forms
@@ -51,7 +51,7 @@ For the following verbs in various forms, list the four principal parts you woul
 3. moriebatur
 - morior, mori, -, mortuus sum
 4. exinteravit
-- exintero, exintere, exintrivi, exintritus❌
+- exintero, exintere, exintrivi, exintritus❌ exintero, exinterare, exinteravi, exinteratus
 5. effugiebat
 - effugio, effugere, effugi, effugitus
 6. adduxit
