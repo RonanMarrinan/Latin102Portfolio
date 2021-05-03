@@ -95,7 +95,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 3. aprum Erymanthium
 - Erymanthius, Erymanthia, Erymanthium
 4. aves Stymphalides
-- Stymphalus, Stymphala, Stymphalum ❌
+- Stymphalus, Stymphala, Stymphalum ❌ 
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 - Amazonus, Amazona, Amazonum
 
