@@ -50,9 +50,8 @@ Hercules servam❌ objecit, quam❌ Deinara misit ad dandum Hercules vestem, in 
 
 
 
-
 Herculem❌ immortalitatem desurrexit, sed Deinara ea❌ interfecit ob actum.
 
-
+**Dicitur Herculem ad immortalitatem ortum esse, sed Deinara se interfecit ob factum.**
 
 
