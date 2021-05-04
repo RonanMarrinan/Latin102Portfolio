@@ -27,11 +27,17 @@ statim (adv.) “immediately”
 
 flammo, flammare, flammavi, flammatus “flame, burn”
 
-**Composition**
+**Composition** (I bolded the fixed sentences)
 
-Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem❌ copit machinari, ne coniugio privaretur.
+Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara conjurationem❌ coepit machinari, ne coniugio privaretur.
+
+**Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara coepit machinari, ne coniugio privaretur.**
+
 
 Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitu❌r, quem ea philtro❌ cogitavit.
+
+**Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi tinctam, quem putabat philtrum esse.**
+
 
 Hercules vestem induit et hunc statim in flammatum❌.
 
