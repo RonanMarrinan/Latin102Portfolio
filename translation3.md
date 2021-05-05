@@ -87,6 +87,6 @@ D. Translation 3
 
 Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr: Hercules let the river in to clean the dung.
 
-Hercules led the bulls, with whom Pasiphae layed with, alive out of the island of Crete.
+Hercules led the bulls, with whom Pasiphae layed with, alive from the island of Crete to Mycenae.
 
 Hercules killed Diomedes, the King of Thrace, and his four horses, who ate human flesh, with the slave Abdera. The hourses were named Podargus, Lampon, Xanthus and Dinus.
