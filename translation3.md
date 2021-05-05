@@ -89,4 +89,4 @@ Hercules cleaned the stable of King Augeas from the dung in a single day, he cle
 
 Hercules led the bull alive, with whom Pasiphae layed with, from the island of Crete to Mycenae.
 
-Hercules killed Diomedes, the King of Thrace, and his four horses, who ate human flesh, with the slave Abdera. The hourses were named Podargus, Lampon, Xanthus and Dinus.
+Hercules killed Diomedes, the King of Thrace, and his four horses, who ate human flesh, with the slave Abderus. The hourses were named Podargus, Lampon, Xanthus and Dinus.
