@@ -24,11 +24,13 @@ Hyginus, chapter 30, sections 7-9.
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Augeae regis stercus bobile uno die *purgavit*,
+Augeae regis stercus bobile uno die *purgavit*, maiorem partem 
 
->maiorem partem Iove *adiutore*;
+>Iove adiutore;
 
-flumine admisso totum stercus *abluit*.
+>flumine admisso
+
+totum stercus *abluit*.
 
 
 
@@ -79,7 +81,7 @@ Hyginu's diction helps to enhance the passage. For example, Hyginus choice to om
 
 D. Translation 3
 
-One day, Hercules cleaned the manure of King Augeas, with Iove helping clean part: Hercules let the river in to clean the manure.
+Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr: Hercules let the river in to clean the dung.
 
 Hercules led the bulls, with whom Pasiphae layed with, alive out of the island of Crete.
 
