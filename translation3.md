@@ -24,7 +24,9 @@ Hyginus, chapter 30, sections 7-9.
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Augeae regis stercus bobile uno die *purgavit*, maiorem partem 
+Augeae regis stercus bobile uno die *purgavit*, 
+
+maiorem partem 
 
 >Iove adiutore;
 
