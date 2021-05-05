@@ -37,7 +37,7 @@ totum stercus *abluit*.
 
 
 
-taurum 
+taurum
 
 >cum quo Pasiphae *concubuit*
 
@@ -85,7 +85,7 @@ Hyginu's diction helps to enhance the passage. For example, Hyginus choice to om
 
 D. Translation 3
 
-Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr: Hercules let the river in to clean the dung.
+Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr: Since the river had been let in, he cleaned away all the dung.
 
 Hercules led the bull, with whom Pasiphae layed with, alive from the island of Crete to Mycenae.
 
