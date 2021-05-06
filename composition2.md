@@ -41,7 +41,7 @@ Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitu❌r, 
 
 Hercules vestem induit et hunc statim in flammatum❌.
 
-**Hercules vestem induit et statimque flammavit.**
+**Hercules vestem induit statimque flammavit.**
 
 
 Hercules servam❌ objecit, quam❌ Deinara misit ad dandum Hercules vestem, in mare.**Nice use of the gerundive!**
