@@ -19,7 +19,7 @@ For each word in the following phrases, list the forms the dictionary entry give
 - stercus, stercoris, m
 - totus, tota, totum,
 3. ceruum ferocem
-- ferox, ferocis, M❌ ferocs, ferocis, M???????
+- ferox, ferocis, ❌ ferocs, ferocis
 - Ceruus, cerui
 4. tantam vim
 - vis, vires, F❌ vīs, vis (f)
