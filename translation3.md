@@ -85,7 +85,7 @@ Hyginu's diction helps to enhance the passage. For example, Hyginus choice to om
 
 D. Translation 3
 
-Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr: Since the river had been let in, he cleaned away all the dung.
+Hercules cleaned the stable of King Augeas from the dung in a single day, he cleansed the greater part of it with jupietr as his helper: Since the river had been let in, he cleaned away all the dung.
 
 Hercules led the bull alive, with whom Pasiphae layed with, from the island of Crete to Mycenae.
 
