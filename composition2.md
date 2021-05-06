@@ -36,7 +36,7 @@ Cum Deinara, filia Oenei et uxor Hurculis, videret, Iolen adductam esse, Deinara
 
 Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi imbuitu❌r, quem ea philtro❌ cogitavit.
 
-**Ea famulum misit ut daret Herculi vestem, sanguinem centauri Nessi tinctam, quem putabat philtrum esse.**
+**Ea famulum misit ut daret Herculi vestem, sanguine centauri Nessi tinctam, quem putabat philtrum esse.**
 
 
 Hercules vestem induit et hunc statim in flammatum❌.
