@@ -69,7 +69,7 @@ B. Grammatical questions
 5. What are the gender, number, case, and antecedent of qui?
 - Qui is in the masculine, plural, nominative and its antecedent is equos.
 6. What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-- The latin verb "to be" has no present participle so it is omitted from the sentence but the sentence is still complete.
+- The latin verb "erant" is omitted from the sentence but the sentence is still complete.
 
 
 
