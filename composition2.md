@@ -46,7 +46,7 @@ Hercules vestem induit et hunc statim in flammatum❌.
 
 Hercules servam❌ objecit, quam❌ Deinara misit ad dandum Hercules vestem, in mare.**Nice use of the gerundive!**
 
-**Hercules servum❌ objecit, quem Deinara misit ad dandum Hercules vestem, in mare.**
+**Hercules servum❌ objecit, quem Deinara misit ad dandum Herculi vestem, in mare.**
 
 
 
