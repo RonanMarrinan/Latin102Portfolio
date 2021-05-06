@@ -61,7 +61,7 @@ B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
 - Iove is in the ablative case and it is the absolute ablative.
 2. What case is stercus, and why is it in that case?
-- Stercus is in the nominative case because it is the subject.
+- Stercus is in the accusative case because it is the direct object.
 3. Identify the form of the adjective maiorem (gender, case, number, degree).
 - Feminine, accustaive, singular, comparative.
 4. Explain the construction of the verbal unit flumine admisso.
